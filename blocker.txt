@@ -601,9 +601,9 @@ suchen.mobile.de##.iKWwq > .KnOLI
 suchen.mobile.de##.RC3dA.IUDVP
 
 ! 10 Sept 2024 https://www.deepl.com
-www.deepl.com##.pe-0.relative > .empty\:hidden.min-w-0.min-h-0
-www.deepl.com##.gap-x-2.items-center.flex > .max-md\:hidden
-www.deepl.com###glossarySuggestionsDialogPortal
+deepl.com###glossarySuggestionsDialogPortal
+deepl.com##span>div>div>div>div>div>span:has-text(DeepL Write):upward(span)
+deepl.com##span>a:has-text(Probeabo):upward(span)
 
 ! 17 Oct 2024 https://www.lastpass.com
 www.lastpass.com##.callout-cards--padding-top.callout-cards
@@ -613,9 +613,6 @@ www.lastpass.com##.top-banner--light.top-banner
 assettocorsamods.io##div > .billboard-height.display-flex
 assettocorsamods.io##.billboard-height.display-flex.assettocorsamods_io_billboard_2
 assettocorsamods.io##.billboard-height.display-flex.assettocorsamods_io_billboard_2
-
-! 22 Nov 2024 https://www.deepl.com
-www.deepl.com##.lg\:px-\[70px\].sm\:px-8.bg-white.w-full
 
 ! 5 Dec 2024 https://www.theverge.com
 www.theverge.com###zephr-footer-container
