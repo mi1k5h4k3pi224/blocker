@@ -638,3 +638,5 @@ www.mydealz.de##.cept-site.space--fromW3-b-3.space--fromW3-t-3.space--v-2.boxAli
 www.dw.com##div.big.embed.vjs-wrapper
 www.dw.com##.flipthis-highlight
 
+! 13 Jan 2025 https://maxread.substack.com/
+maxread.substack.com##*:style(font-family: Arial !important)
