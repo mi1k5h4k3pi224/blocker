@@ -604,6 +604,7 @@ suchen.mobile.de##.RC3dA.IUDVP
 deepl.com###glossarySuggestionsDialogPortal
 deepl.com##span>div>div>div>div>div>span:has-text(DeepL Write):upward(span)
 deepl.com##span>a:has-text(Probeabo):upward(span)
+deepl.com##span>a:has-text(free trial):upward(span)
 
 ! 17 Oct 2024 https://www.lastpass.com
 www.lastpass.com##.callout-cards--padding-top.callout-cards
