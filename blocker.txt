@@ -605,6 +605,7 @@ deepl.com###glossarySuggestionsDialogPortal
 deepl.com##span>div>div>div>div>div>span:has-text(DeepL Write):upward(span)
 deepl.com##span>a:has-text(Probeabo):upward(span)
 deepl.com##span>a:has-text(free trial):upward(span)
+deepl.com##[aria-label="callout-heading-write-advertisement-banner"]:upward(div)
 
 ! 17 Oct 2024 https://www.lastpass.com
 www.lastpass.com##.callout-cards--padding-top.callout-cards
