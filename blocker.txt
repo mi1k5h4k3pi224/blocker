@@ -274,6 +274,7 @@ www.kleinanzeigen.de##.align-center.l-container-row
 www.kleinanzeigen.de##.tilesbox.l-container-row.a-double-margin
 www.kleinanzeigen.de##.align-center.l-container.banner.jsx-2914300277
 www.kleinanzeigen.de##.CarFinancing
+www.kleinanzeigen.de##.manageadbox--features
 www.kleinanzeigen.de##.align-center.l-container.banner
 
 ! 2023-08-30 https://www.macrumors.com
@@ -444,3 +445,5 @@ www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-ty
 www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(6)
 www.hochfranken-live.de##.fsl-buttons
 
+! 17 Jan 2025 https://docs.google.com
+docs.google.com##.docs-homescreen-fcc-flex-contracted.docs-homescreen-fcc-flex
