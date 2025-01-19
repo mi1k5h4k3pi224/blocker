@@ -302,10 +302,13 @@ www.computerbild.de###newsletter-teaser-widget
 ||ogs.google.com/widget/callout$subdocument
 
 ! 2024-02-04 https://www.kaufda.de
+www.kaufda.de##.e1ho05yj1
+www.kaufda.de##.flipthis-highlight
 www.kaufda.de##div.shelf-premium-content
 www.kaufda.de##.shelf-premium-content__wrapper
 www.kaufda.de##.topic-carousel
 www.kaufda.de##[data-test-id="feedback-tile-content"]
+www.kaufda.de##[data-test-id="search-tooltip-content"]
 www.kaufda.de##div>span:has-text(Weitere):upward(div)
 www.kaufda.de##div>span:has-text(Sanitätshäuser):upward(div)
 www.kaufda.de##div>span:has-text(Zoohandlung):upward(div)
