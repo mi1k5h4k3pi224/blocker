@@ -305,12 +305,13 @@ www.computerbild.de###newsletter-teaser-widget
 www.kaufda.de##div.shelf-premium-content
 www.kaufda.de##.shelf-premium-content__wrapper
 www.kaufda.de##.topic-carousel
-www.kaufda.de##div>span:has-text(Möbel):upward(div)
+www.kaufda.de##[data-test-id="feedback-tile-content"]
 www.kaufda.de##div>span:has-text(Weitere):upward(div)
-www.kaufda.de##div>span:has-text(Baumärkte):upward(div)
-www.kaufda.de##div>span:has-text(Elektromärkte):upward(div)
+www.kaufda.de##div>span:has-text(Sanitätshäuser):upward(div)
+www.kaufda.de##div>span:has-text(Zoohandlung):upward(div)
+www.kaufda.de##div>span:has-text(Fotobedarf):upward(div)
 www.kaufda.de##div>span:has-text(Banken):upward(div)
-www.kaufda.de##div>span:has-text(Apotheken):upward(div)
+www.kaufda.de##div>span:has-text(Reise):upward(div)
 www.kaufda.de##div>span:has-text(Werkstatt):upward(div)
 www.kaufda.de##div>span:has-text(Mode):upward(div)
 www.kaufda.de##div>span:has-text(Kaufhäuser):upward(div)
