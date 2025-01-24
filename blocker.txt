@@ -444,3 +444,5 @@ docs.google.com##.docs-homescreen-fcc-flex-contracted.docs-homescreen-fcc-flex
 ! Jan 23, 2025 https://www.404media.co
 www.404media.co##.kg-callout-card-grey.kg-callout-card.kg-card
 
+! 24 Jan 2025 https://www.instagram.com
+www.instagram.com##[role="presentation"]:upward(2)
