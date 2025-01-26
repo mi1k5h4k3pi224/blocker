@@ -307,7 +307,7 @@ www.kaufda.de##.flipthis-highlight
 www.kaufda.de##div.shelf-premium-content
 www.kaufda.de##.shelf-premium-content__wrapper
 www.kaufda.de##.topic-carousel
-www.kaufda.de##.shelfContentGroup > div:nth-of-type(9)
+www.kaufda.de##.e1oweqmz5.css-hfh55c.false
 www.kaufda.de##[data-test-id="feedback-tile-content"]
 www.kaufda.de##[data-test-id="search-tooltip-content"]
 www.kaufda.de##div>span:has-text(Weitere):upward(div)
