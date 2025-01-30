@@ -445,3 +445,16 @@ docs.google.com##.docs-homescreen-fcc-flex-contracted.docs-homescreen-fcc-flex
 
 ! Jan 23, 2025 https://www.404media.co
 www.404media.co##.kg-callout-card-grey.kg-callout-card.kg-card
+
+! Jan 30, 2025 https://www.hochfranken-live.de
+www.hochfranken-live.de###slider-container195
+www.hochfranken-live.de###top > .row-fluid
+www.hochfranken-live.de##.__text_mode_custom_bg__.moduletable.crate_mainbody
+www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(1)
+www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(3)
+www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(4)
+www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(5)
+www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(6)
+www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(9)
+www.hochfranken-live.de##.fsl-buttons
+||www.hochfranken-live.de/images/vishay-logo-1280x1024.png$image
