@@ -76,6 +76,11 @@ suchen.mobile.de##.vip-placeholder
 suchen.mobile.de##.cBox--saveSearchBanner.cBox-body
 suchen.mobile.de##.u-no-pad.envkvBox.u-bg-transparent.cBox
 suchen.mobile.de###parking-overlay-thumb
+suchen.mobile.de##.W0RYj.KnOLI.m7u5r
+suchen.mobile.de##.W0RYj.KnOLI
+suchen.mobile.de##.HaBLt.jKo2y
+suchen.mobile.de##.RC3dA.JccNx
+suchen.mobile.de##.RC3dA.IUDVP
 
 ! 2021-07-28 https://www.thelocal.de
 www.thelocal.de##.tp-modal
@@ -432,6 +437,9 @@ www.frankenpost.de###article-container > .brickgroup
 ! 11 Dec 2024 https://www.mydealz.de
 www.mydealz.de##div[id^="customBannerList"]
 www.mydealz.de##.cept-site.space--fromW3-b-3.space--fromW3-t-3.space--v-2.boxAlign-jc--all-c.flex.messages-item--type-site.messages-item
+www.mydealz.de##.space--t-4.color--static.color--text-TranslucentInvertedPrimary.page-space--v-l.page-content.page-center.page-footer
+www.mydealz.de##.space--fromW3-b-0.page-space--v-l.page-center.page-footer
+www.mydealz.de##.space--fromW3-r-2.space--fromW3-l-0.space--l-3.footer-sectionBorder
 
 ! 2 Jan 2025 https://www.dw.com
 www.dw.com##div.big.embed.vjs-wrapper
@@ -458,3 +466,6 @@ www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-ty
 www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(9)
 www.hochfranken-live.de##.fsl-buttons
 ||www.hochfranken-live.de/images/vishay-logo-1280x1024.png$image
+
+! Jan 17, 2025 https://www.autoscout24.com
+www.autoscout24.com###finance-section > .DetailsSection_detailsSection__FJZXR
