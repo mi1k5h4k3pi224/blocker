@@ -82,10 +82,6 @@ suchen.mobile.de##.HaBLt.jKo2y
 suchen.mobile.de##.RC3dA.JccNx
 suchen.mobile.de##.RC3dA.IUDVP
 
-! 2021-07-28 https://www.thelocal.de
-www.thelocal.de##.tp-modal
-www.thelocal.de##.tp-active.tp-backdrop
-
 ! 2021-08-22 https://canary.giggl.app
 canary.giggl.app##.cuOtHq.sc-pAZqv
 
