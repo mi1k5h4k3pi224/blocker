@@ -469,3 +469,15 @@ www.hochfranken-live.de##.fsl-buttons
 
 ! Jan 17, 2025 https://www.autoscout24.com
 www.autoscout24.com###finance-section > .DetailsSection_detailsSection__FJZXR
+
+! https://www.thelocal.xx
+www.thelocal.no##.tp-modal
+www.thelocal.no##.tp-active.tp-backdrop
+www.thelocal.no##.tp-modal-open:style(overflow:visible !important;)
+www.thelocal.no##^script:has-text(window.tp.experience.init())
+www.thelocal.no##+js(rmnt, script, window.tp.experience.init())
+www.thelocal.de##.tp-modal
+www.thelocal.de##.tp-active.tp-backdrop
+www.thelocal.de##.tp-modal-open:style(overflow:visible !important;)
+www.thelocal.de##^script:has-text(window.tp.experience.init())
+www.thelocal.de##+js(rmnt, script, window.tp.experience.init())
