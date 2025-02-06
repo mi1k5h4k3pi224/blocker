@@ -467,11 +467,13 @@ www.hochfranken-live.de##.fsl-buttons
 www.autoscout24.com###finance-section > .DetailsSection_detailsSection__FJZXR
 
 ! https://www.thelocal.xx
+www.thelocal.no##*:style(font-family: Arial !important)
 www.thelocal.no##.tp-modal
 www.thelocal.no##.tp-active.tp-backdrop
 www.thelocal.no##.tp-modal-open:style(overflow:visible !important;)
 www.thelocal.no##^script:has-text(window.tp.experience.init())
 www.thelocal.no##+js(rmnt, script, window.tp.experience.init())
+www.thelocal.de##*:style(font-family: Arial !important)
 www.thelocal.de##.tp-modal
 www.thelocal.de##.tp-active.tp-backdrop
 www.thelocal.de##.tp-modal-open:style(overflow:visible !important;)
