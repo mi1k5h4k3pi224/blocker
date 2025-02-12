@@ -330,6 +330,7 @@ feedly.com##.ttd9OnxwNDCiFtsXMqqf.HpfjfDvNq7dU0VmCDlEn.sluaNmDifJ3fslxNky8J.ze_k
 feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
 feedly.com##div>p>a:has-text(15 Minuten:):upward(article)
 feedly.com##div>p>a:has-text(11KM-Podcast):upward(article)
+feedly.com##div>p>a:has-text(11KM Podcast):upward(article)
 feedly.com##div>p>a:has-text(Podcast 11KM):upward(article)
 feedly.com##div>p>a:has-text(Podcast 11 KM):upward(article)
 feedly.com##div>p>a:has-text(11KM:):upward(article)
