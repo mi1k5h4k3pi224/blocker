@@ -232,10 +232,10 @@ eksisozluk.com##ul>li>a:has-text("fenerbahçe"):upward(li)
 eksisozluk.com##ul>li>a:has-text("galatasaray"):upward(li)
 eksisozluk.com##ul>li>a:has-text("beşiktaş"):upward(li)
 eksisozluk.com##ul>li>a:has-text("trabzonspor"):upward(li)
-eksisozluk.com##ul>li>a:has-text("fb "):upward(li)
-eksisozluk.com##ul>li>a:has-text("gs "):upward(li)
-eksisozluk.com##ul>li>a:has-text("bjk "):upward(li)
-eksisozluk.com##ul>li>a:has-text("ts "):upward(li)
+eksisozluk.com##ul>li>a:has-text("fb-"):upward(li)
+eksisozluk.com##ul>li>a:has-text("gs-"):upward(li)
+eksisozluk.com##ul>li>a:has-text("bjk-"):upward(li)
+eksisozluk.com##ul>li>a:has-text("ts-"):upward(li)
 
 ! 2023-03-04 https://www.sahibinden.com
 www.sahibinden.com##.showed-once.search-leaderboard-banner
