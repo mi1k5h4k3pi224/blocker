@@ -228,6 +228,9 @@ eksisozluk.com##.avatar-container
 eksisozluk.com###index-filter-prefs
 eksisozluk.com##div.fb_iframe_widget.fb-page
 eksisozluk.com##.twitter-follow-button-rendered.twitter-follow-button
+eksisozluk.com##ul>li>a:has-text("fenerbahçe"):upward(li)
+eksisozluk.com##ul>li>a:has-text("galatasaray"):upward(li)
+eksisozluk.com##ul>li>a:has-text("beşiktaş"):upward(li)
 
 ! 2023-03-04 https://www.sahibinden.com
 www.sahibinden.com##.showed-once.search-leaderboard-banner
@@ -422,6 +425,7 @@ assettocorsamods.io##.billboard-height.display-flex.assettocorsamods_io_billboar
 www.theverge.com###zephr-footer-container
 www.theverge.com##.zephr-overlay
 www.theverge.com###zephr-footer-container
+www.theverge.com##._10nsm9324._10nsm930._10nsm931._10nsm93q
 
 ! 10 Dec 2024 https://www.frankenpost.de
 www.frankenpost.de###leaderboard_1
