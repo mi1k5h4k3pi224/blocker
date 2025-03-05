@@ -495,3 +495,10 @@ www.thelocal.de##.tp-active.tp-backdrop
 www.thelocal.de##.tp-modal-open:style(overflow:visible !important;)
 www.thelocal.de##^script:has-text(window.tp.experience.init())
 www.thelocal.de##+js(rmnt, script, window.tp.experience.init())
+
+! Feb 5, 2025 https://extraetf.com
+extraetf.com##.ng-star-inserted.pt-4.external-video-container
+
+! Mar 5, 2025 https://arstechnica.com
+arstechnica.com##.cne-interlude-container
+
