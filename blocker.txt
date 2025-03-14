@@ -291,6 +291,7 @@ www.kleinanzeigen.de##.align-center.l-container.banner.jsx-2914300277
 www.kleinanzeigen.de##.CarFinancing
 www.kleinanzeigen.de##.manageadbox--features
 www.kleinanzeigen.de##.align-center.l-container.banner
+www.kleinanzeigen.de##[data-testid="feature-container"]
 
 ! 2023-08-30 https://www.macrumors.com
 www.macrumors.com##.slick-inline-search-panel
