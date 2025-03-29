@@ -505,3 +505,5 @@ extraetf.com##.ng-star-inserted.pt-4.external-video-container
 ! Mar 5, 2025 https://arstechnica.com
 arstechnica.com##.cne-interlude-container
 
+! Mar 29, 2025 https://boingboing.net
+boingboing.net###modalOverlay
