@@ -195,11 +195,18 @@ www.youtube.com###actions :is([aria-label="Thanks"], [aria-label="Clip"], [aria-
 www.youtube.com##.ytp-button.ytp-miniplayer-button
 www.youtube.com##.ytp-button.ytp-prev-button
 www.youtube.com###voice-search-button
+! Settings [EN]
 www.youtube.com##div.ytp-menuitem>div:has-text("Stable Volume"):upward(.ytp-menuitem)
 www.youtube.com##div.ytp-menuitem>div:has-text("Ambient mode"):upward(.ytp-menuitem)
 www.youtube.com##div.ytp-menuitem>div:has-text("Annotations"):upward(.ytp-menuitem)
 www.youtube.com##div.ytp-menuitem>div:has-text("Sleep timer"):upward(.ytp-menuitem)
 www.youtube.com##div.ytp-menuitem-with-footer>div:has-text("Custom"):upward(.ytp-menuitem-with-footer)
+! Settings [DE]
+www.youtube.com##div.ytp-menuitem>div:has-text("Gleichbleibende Lautstärke"):upward(.ytp-menuitem)
+www.youtube.com##div.ytp-menuitem>div:has-text("Beleuchtung wie im Kino"):upward(.ytp-menuitem)
+www.youtube.com##div.ytp-menuitem>div:has-text("Anmerkungen"):upward(.ytp-menuitem)
+www.youtube.com##div.ytp-menuitem>div:has-text("Ruhemodus-Timer"):upward(.ytp-menuitem)
+www.youtube.com##div.ytp-menuitem-with-footer>div:has-text("Benutzerdefiniert"):upward(.ytp-menuitem-with-footer)
 
 ! YouTube Shorts
 www.youtube.com##ytd-guide-renderer a.yt-simple-endpoint[title="Shorts"]:upward(ytd-guide-entry-renderer)
