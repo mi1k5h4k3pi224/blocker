@@ -382,6 +382,9 @@ feedly.com##div>p>a:has-text("In der region: was am"):upward(article)
 feedly.com##div>p>a:has-text("Syrer"):upward(article)
 feedly.com##div>p>a:has-text("Syrien"):upward(article)
 feedly.com##div>p>a:has-text("Syrische"):upward(article)
+feedly.com##div>p>a:has-text("Hofer Spaziergänger"):upward(article)
+feedly.com##div>p>a:has-text("Reparaturcafé am"):upward(article)
+feedly.com##div>p>a:has-text("Polizeibericht vom"):upward(article)
 
 ! 2024-02-20 https://www.reddit.com
 www.reddit.com##embed-snippet-share-button
