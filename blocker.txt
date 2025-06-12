@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.53
-! Last modified: 2025-06-02 12:31
+! Version: 1.54
+! Last modified: 2025-06-12 10:35
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -176,9 +176,6 @@ www.facebook.com##.x1ceravr.xgmub6v.x193iq5w
 www.facebook.com##div.x1yztbdb > div > div > div > div > .xh8yej3.x1n2onr6.x78zum5
 www.facebook.com##[role=feed]>div [href="/reel/?s=ifu_see_more"]:upward([role=feed]>div)
 www.facebook.com##.r5g9zsuq.q46jt4gp > div > .gve6y6jg
-
-! 2022-11-14 https://www.frankenpost.de
-www.frankenpost.de##.billboard-wrapper
 
 ! 2022-06-24 https://www.youtube.com
 ! www.youtube.com##.ytd-download-button-renderer.style-scope
@@ -456,12 +453,15 @@ www.theverge.com###zephr-footer-container
 www.theverge.com##._10nsm9324._10nsm930._10nsm931._10nsm93q
 
 ! 10 Dec 2024 https://www.frankenpost.de
+www.frankenpost.de##.billboard-wrapper
 www.frankenpost.de###leaderboard_1
-||topteaser.hcsb-2.de/fp-topteaser-desktop/$subdocument
+www.frankenpost.de###article-plus-upsc-plus
+www.frankenpost.de##.upscore-paywall-placeholder
 www.frankenpost.de###bottomteaser
 www.frankenpost.de###hcsb-topteaser-upper
 www.frankenpost.de##.rectangle.brick
 www.frankenpost.de###article-container > .brickgroup
+||topteaser.hcsb-2.de/fp-topteaser-desktop/$subdocument
 
 ! 11 Dec 2024 https://www.mydealz.de
 www.mydealz.de##div[id^="customBannerList"]
@@ -495,6 +495,19 @@ www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-ty
 www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(9)
 www.hochfranken-live.de##.fsl-buttons
 ||www.hochfranken-live.de/images/vishay-logo-1280x1024.png$image
+
+! Jan 30, 2025 https://hochfranken-live.de
+hochfranken-live.de###slider-container195
+hochfranken-live.de###top > .row-fluid
+hochfranken-live.de##.__text_mode_custom_bg__.moduletable.crate_mainbody
+hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(1)
+hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(3)
+hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(4)
+hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(5)
+hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(6)
+hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(9)
+hochfranken-live.de##.fsl-buttons
+||hochfranken-live.de/images/vishay-logo-1280x1024.png$image
 
 ! Jan 17, 2025 https://www.autoscout24.com
 www.autoscout24.com###finance-section > .DetailsSection_detailsSection__FJZXR
