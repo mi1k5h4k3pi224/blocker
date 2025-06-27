@@ -486,6 +486,13 @@ www.404media.co##.kg-callout-card-grey.kg-callout-card.kg-card
 ! Jan 30, 2025 https://www.hochfranken-live.de
 www.hochfranken-live.de###slider-container195
 www.hochfranken-live.de###top > .row-fluid
+www.hochfranken-live.de##..moduletable.crate_mainbody
+www.hochfranken-live.de##div..moduletable.crate:nth-of-type(1)
+www.hochfranken-live.de##div..moduletable.crate:nth-of-type(3)
+www.hochfranken-live.de##div..moduletable.crate:nth-of-type(4)
+www.hochfranken-live.de##div..moduletable.crate:nth-of-type(5)
+www.hochfranken-live.de##div..moduletable.crate:nth-of-type(6)
+www.hochfranken-live.de##div..moduletable.crate:nth-of-type(9)
 www.hochfranken-live.de##.__text_mode_custom_bg__.moduletable.crate_mainbody
 www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(1)
 www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(3)
@@ -499,6 +506,13 @@ www.hochfranken-live.de##.fsl-buttons
 ! Jan 30, 2025 https://hochfranken-live.de
 hochfranken-live.de###slider-container195
 hochfranken-live.de###top > .row-fluid
+hochfranken-live.de##..moduletable.crate_mainbody
+hochfranken-live.de##div..moduletable.crate:nth-of-type(1)
+hochfranken-live.de##div..moduletable.crate:nth-of-type(3)
+hochfranken-live.de##div..moduletable.crate:nth-of-type(4)
+hochfranken-live.de##div..moduletable.crate:nth-of-type(5)
+hochfranken-live.de##div..moduletable.crate:nth-of-type(6)
+hochfranken-live.de##div..moduletable.crate:nth-of-type(9)
 hochfranken-live.de##.__text_mode_custom_bg__.moduletable.crate_mainbody
 hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(1)
 hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(3)
