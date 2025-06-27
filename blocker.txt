@@ -142,11 +142,12 @@ open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--anima
 open.spotify.com##.main-view-container__mh-footer-container
 open.spotify.com##.encore-text-body-small-bold.heiitI.Button-sc-qlcn5g-0
 open.spotify.com##.jgTSDy.Button-sc-qlcn5g-0
+open.spotify.com##.K06ol8ltPT_atXE_JjUP
 open.spotify.com##.sponsor-container
 open.spotify.com##section:has-text(/^Podcasts/)
 open.spotify.com##section:has-text(/^Episodes/)
 open.spotify.com##section:has-text(/^Shows/)
-open.spotify.com##[aria-label^="Explore"]:upward(button)
+open.spotify.com##[aria-label^="Explore "]
 spotify.com##section:has-text(/^Podcasts/)
 spotify.com##section:has-text(/^Episodes/)
 spotify.com##section:has-text(/^Shows/)
