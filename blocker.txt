@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.59
-! Last modified: 2025-06-27 11:30
+! Version: 1.60
+! Last modified: 2025-06-30 12:40
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -488,6 +488,7 @@ www.404media.co##.kg-callout-card-grey.kg-callout-card.kg-card
 www.hochfranken-live.de###slider-container195
 www.hochfranken-live.de###top > .row-fluid
 www.hochfranken-live.de##..moduletable.crate_mainbody
+www.hochfranken-live.de##div:nth-of-type(1) > .moduletable.crate_mainbody
 www.hochfranken-live.de##div.moduletable.crate:nth-of-type(1)
 www.hochfranken-live.de##div.moduletable.crate:nth-of-type(3)
 www.hochfranken-live.de##div.moduletable.crate:nth-of-type(4)
@@ -508,6 +509,7 @@ www.hochfranken-live.de##.fsl-buttons
 hochfranken-live.de###slider-container195
 hochfranken-live.de###top > .row-fluid
 hochfranken-live.de##..moduletable.crate_mainbody
+hochfranken-live.de##div:nth-of-type(1) > .moduletable.crate_mainbody
 hochfranken-live.de##div.moduletable.crate:nth-of-type(1)
 hochfranken-live.de##div.moduletable.crate:nth-of-type(3)
 hochfranken-live.de##div.moduletable.crate:nth-of-type(4)
@@ -549,3 +551,7 @@ arstechnica.com##.cne-interlude-container
 
 ! Mar 29, 2025 https://boingboing.net
 boingboing.net###modalOverlay
+
+! Apr 18, 2025 https://www.reifen.com
+www.reifen.com##.wrp-insurancedetailbox
+
