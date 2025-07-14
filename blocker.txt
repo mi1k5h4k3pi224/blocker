@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.61
-! Last modified: 2025-07-14 09:40
+! Version: 1.62
+! Last modified: 2025-07-14 09:50
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -368,6 +368,7 @@ feedly.com##div>p>a:has-text("Apple Deals of the Week:"):upward(article)
 feedly.com##div>p>a:has-text("on Prime Day"):upward(article)
 feedly.com##div>p>a:has-text("for Prime Day"):upward(article)
 feedly.com##div>p>a:has-text("during Prime Day"):upward(article)
+feedly.com##div>p>a:has-text("Prime Day deals"):upward(article)
 feedly.com##div>p>a:has-text("Prime Day Deals"):upward(article)
 feedly.com##div>p>a:has-text("Top Stories:"):upward(article)
 feedly.com##div>p>a:has-text("Ukraine-Liveblog"):upward(article)
