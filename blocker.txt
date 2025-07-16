@@ -1,13 +1,13 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.64
-! Last modified: 2025-07-14 10:10
+! Version: 1.65
+! Last modified: 2025-07-16 09:10
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
 ! -------------------------------------------------------------------------------------------
 
-! 2021-02-18 https://outlook.live.com
+! https://outlook.live.com
 outlook.live.com###owaMeetNowButton > div
 outlook.live.com##.Ogt7j
 outlook.live.com##.Ogqyq
@@ -26,13 +26,13 @@ outlook.live.com##._1dBL6mV6xRANqjh_Z8BjN6 > ._1fti_QgAzqGWPGlqh_FSvI
 outlook.live.com##._1xCBLVKl1qp6BB2jT7GN5b > ._3_hHr3kfEhbNYRFM5YJxH9
 outlook.live.com##._3aRm9-c4VI9gXlSh855LSx._3_hHr3kfEhbNYRFM5YJxH9
 
-! 2021-03-21 https://onlineservice.esm-selb.de
+! https://onlineservice.esm-selb.de
 onlineservice.esm-selb.de##.modal
 
-! 2021-04-04 https://app.tutturu.tv
+! https://app.tutturu.tv
 app.tutturu.tv##.Container_warningPrompt__raE9F.Container_prompt__f5s5K
 
-! 2021-04-14 https://www.carscoops.com
+! https://www.carscoops.com
 www.carscoops.com##.videor.row
 www.carscoops.com##.section5.row.editorp.custom-promo-small
 www.carscoops.com##.section5.sec2head.row
@@ -43,18 +43,18 @@ www.carscoops.com##.follow-carscoops
 www.carscoops.com##.related
 www.carscoops.com##.addthis-wraper.socials
 
-! 2021-04-14 https://www.autoblog.com
+! https://www.autoblog.com
 www.autoblog.com###adblocker-interstitial
 
-! 2021-06-03 https://www.rotmain-center.de
+! https://www.rotmain-center.de
 www.rotmain-center.de###mdl-modal-central > .mdl-modal__outer
 www.rotmain-center.de##.in.mdl-modal--no-padding.mdl-modal--central.mdl-modal
 www.rotmain-center.de##.in.mdl-overlay
 
-! 2021-07-07 https://store.steampowered.com
+! https://store.steampowered.com
 store.steampowered.com##.broadcast_embed_top_ctn_trgt
 
-! 2021-07-20 https://suchen.mobile.de
+! https://suchen.mobile.de
 www.mobile.de##.ret-car-valuation-box.cBox--content.cBox
 www.mobile.de##.home-box-container
 www.mobile.de##.u-pad-bottom-18.cBox--content.cBox
@@ -82,10 +82,10 @@ suchen.mobile.de##.HaBLt.jKo2y
 suchen.mobile.de##.RC3dA.JccNx
 suchen.mobile.de##.RC3dA.IUDVP
 
-! 2021-08-22 https://canary.giggl.app
+! https://canary.giggl.app
 canary.giggl.app##.cuOtHq.sc-pAZqv
 
-! 2021-09-21 https://teknoseyir.com
+! https://teknoseyir.com
 teknoseyir.com##.tepe_reklam
 teknoseyir.com##.liste
 teknoseyir.com###one_cikanlar-21
@@ -94,10 +94,10 @@ teknoseyir.com###one_cikanlar-8
 ||teknoseyir.com/wp-content/themes/ts/sponsor-desktop.php$subdocument
 ||teknoseyir.com/sponsor/desktop.php$subdocument
 
-! 2021-10-24 https://bulten.mserdark.com
+! https://bulten.mserdark.com
 bulten.mserdark.com###subscribe-bar
 
-! 2021-10-25 https://www.finn.no
+! https://www.finn.no
 www.finn.no##.adsbox.banners
 www.finn.no###netboard_1
 www.finn.no###netboard_2
@@ -105,10 +105,10 @@ www.finn.no###netboard_3
 www.finn.no###netboard_4
 www.finn.no##.ads__unit--fullwidth.ads__unit--banner.ads__unit
 
-! 2021-10-31 https://www.routeyou.com
+! https://www.routeyou.com
 www.routeyou.com##.adWrapper-largeRectangleDesktop
 
-! 2021-11-11 https://vk.com
+! https://vk.com
 vk.com##.videoplayer_action_button
 vk.com##.ShortVideoFeedBlock.page_block
 vk.com##._post.post.page_block.RecommendedNarrativesBlock
@@ -118,26 +118,26 @@ vk.com##.apps_feedRightAppsBlock__row
 vk.com##.stories_feed_not_nav_buttons.stories_feed_with_thumb.clear_fix.stories_feed_wrap.page_block
 vk.com##.apps_feedRightAppsBlock_single_app--.apps_feedRightAppsBlock_single_app.apps_feedRightAppsBlock.page_block
 
-! 2021-11-27 https://www.worldometers.info
+! https://www.worldometers.info
 www.worldometers.info##div:nth-of-type(13)
 
-! 2021-12-04 https://www.aliexpress.com
+! https://www.aliexpress.com
 www.aliexpress.com##.product-fix-wrap
 de.aliexpress.com##.drogue-poplayer-modal
 
-! 2022-01-03 https://www.bonappetit.com
+! https://www.bonappetit.com
 www.bonappetit.com##.sticky-box.duhIvo.StickyBoxWrapper-euhCxU
 
-! 2022-02-01 https://www.primewire.li
+! https://www.primewire.li
 www.primewire.li##.nopop.spn-btns
 
-! 2022-02-13 https://hqporner.com
+! https://hqporner.com
 hqporner.com##.black_friday
 
-! 2022-02-27 https://petrolheart.com
+! https://petrolheart.com
 petrolheart.com##.loox-pn-bottom_left.loox-pn--shown.loox-pn
 
-! 2022-06-27 https://open.spotify.com
+! https://open.spotify.com
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
 open.spotify.com##.main-view-container__mh-footer-container
 open.spotify.com##.encore-text-body-small-bold.heiitI.Button-sc-qlcn5g-0
@@ -152,10 +152,10 @@ spotify.com##section:has-text(/^Podcasts/)
 spotify.com##section:has-text(/^Episodes/)
 spotify.com##section:has-text(/^Shows/)
 
-! 2022-06-28 https://passionforengine.de
+! https://passionforengine.de
 passionforengine.de##.recommendation-modal__container
 
-! 2022-07-02 https://pixlr.com
+! https://pixlr.com
 ||pixlr.com/dad/slot/$subdocument
 pixlr.com###right-space
 
@@ -172,13 +172,13 @@ facebook.com##div[data-pagelet*="FeedUnit"]:has(a[aria-label*="Sponsored" i])
 facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(display: none):remove()
 facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(position: absolute):remove()
 facebook.com##[role="feed"] span[id] a[href="#"]:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div)
-! 2022-10-23 https://www.facebook.com
+! https://www.facebook.com
 www.facebook.com##.x1ceravr.xgmub6v.x193iq5w
 www.facebook.com##div.x1yztbdb > div > div > div > div > .xh8yej3.x1n2onr6.x78zum5
 www.facebook.com##[role=feed]>div [href="/reel/?s=ifu_see_more"]:upward([role=feed]>div)
 www.facebook.com##.r5g9zsuq.q46jt4gp > div > .gve6y6jg
 
-! 2022-06-24 https://www.youtube.com
+! https://www.youtube.com
 ! www.youtube.com##.ytd-download-button-renderer.style-scope
 ! www.youtube.com##yt-button-view-model.ytd-menu-renderer.style-scope
 www.youtube.com##.ytp-paid-content-overlay
@@ -222,13 +222,13 @@ www.youtube.com##ytd-watch-next-secondary-results-renderer ytd-shelf-renderer:ha
 www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"]:upward(ytd-item-section-renderer)
 www.youtube.com##ytd-browse[page-subtype="channels"] #contents.ytd-reel-shelf-renderer:upward(ytd-item-section-renderer)
 
-! 2023-02-14 https://mytuner-radio.com
+! https://mytuner-radio.com
 ||static2.mytuner.mobi/static/images/sprite-40.png$image
 
-! 2023-03-04 https://en.zalando.de
+! https://en.zalando.de
 en.zalando.de###view-tracker-wrapper
 
-! 2023-03-04 https://eksisozluk.com
+! https://eksisozluk.com
 eksisozluk.com###embedded-player
 eksisozluk.com##.avatar-container
 eksisozluk.com###index-filter-prefs
@@ -250,15 +250,15 @@ eksisozluk.com##ul>li>a:has-text("gs-"):upward(li)
 eksisozluk.com##ul>li>a:has-text("bjk-"):upward(li)
 eksisozluk.com##ul>li>a:has-text("ts-"):upward(li)
 
-! 2023-03-04 https://www.sahibinden.com
+! https://www.sahibinden.com
 www.sahibinden.com##.showed-once.search-leaderboard-banner
 
-! 2023-03-05 https://music.youtube.com
+! https://music.youtube.com
 music.youtube.com##ytmusic-toggle-menu-service-item-renderer.ytmusic-menu-popup-renderer.style-scope:has-text(/Add to l/)
 music.youtube.com##ytmusic-toggle-menu-service-item-renderer.ytmusic-menu-popup-renderer.style-scope:has-text(/library/)
 music.youtube.com##ytmusic-toggle-menu-service-item-renderer.ytmusic-menu-popup-renderer.style-scope:has-text(/credits/)
 
-! 2023-03-07 https://www.steamgifts.com
+! https://www.steamgifts.com
 www.steamgifts.com##[src="https://fanatical.imgix.net/product/original/b1d05568-8a60-4243-99b6-1ada901e8d06.jpeg?auto=compress,format&w=300&fit=crop&h=100"]
 www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(5)
 www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(6)
@@ -273,19 +273,19 @@ www.steamgifts.com##.dont_block_me
 ! 2023-05-16 https://hqporner.com
 hqporner.com##.hide_ad_marker.button
 
-! 2023-05-28 https://www.cimri.com
+! https://www.cimri.com
 www.cimri.com###adslot-masthead
 
-! 2023-06-04 https://www.alltrails.com
+! https://www.alltrails.com
 www.alltrails.com###modalPortal
 
-! 2023-06-05 https://www.immobilienscout24.de
+! https://www.immobilienscout24.de
 www.immobilienscout24.de##.content-wrapper--lap-stretch.content-wrapper--palm-stretch.content-wrapper > .banner-top-placeholder
 
-! 2023-06-06 https://www.flightconnections.com
+! https://www.flightconnections.com
 www.flightconnections.com##.join-flc
 
-! 2023-07-03 https://www.kleinanzeigen.de
+! https://www.kleinanzeigen.de
 www.ebay-kleinanzeigen.de###liberty-my_ads-top-banner
 www.ebay-kleinanzeigen.de###site-content > .align-center.l-container-row
 www.ebay-kleinanzeigen.de###liberty-home-above-header
@@ -300,16 +300,16 @@ www.kleinanzeigen.de##.manageadbox--features
 www.kleinanzeigen.de##.align-center.l-container.banner
 www.kleinanzeigen.de##[data-testid="feature-container"]
 
-! 2023-08-30 https://www.macrumors.com
+! https://www.macrumors.com
 www.macrumors.com##.slick-inline-search-panel
 www.macrumors.com###mc-embedded-subscribe-form
 www.macrumors.com##div.block--2_RlJqhg
 www.macrumors.com##.inline--Nnb-B96C.heading--h3--23mHEuMI.heading--1cooZo6n
 
-! 2023-09-22 https://www.einbuergerungstest-online.de
+! https://www.einbuergerungstest-online.de
 www.einbuergerungstest-online.de##.md\:min-h-\[280px\]
 
-! 2023-12-15 https://www.computerbild.de
+! https://www.computerbild.de
 www.computerbild.de###superbanner
 www.computerbild.de###billboard_btf
 www.computerbild.de##.masonry.labeling.jobbioTeaser
@@ -317,14 +317,12 @@ www.computerbild.de##.ecommerceButton__wrapperLink.textLink
 www.computerbild.de##div.ecommerceButton:nth-of-type(9)
 www.computerbild.de###billboard_btf_2Wrapper
 www.computerbild.de##.ecommerceButton__button.mainButton
-
-! 2023-12-16 https://www.computerbild.de
 www.computerbild.de###newsletter-teaser-widget
 
-! 2024-01-14 https://www.google.com
+! https://www.google.com
 ||ogs.google.com/widget/callout$subdocument
 
-! 2024-02-04 https://www.kaufda.de
+! https://www.kaufda.de
 www.kaufda.de##.e1ho05yj1
 www.kaufda.de##.flipthis-highlight
 www.kaufda.de##div.shelf-premium-content
@@ -343,7 +341,7 @@ www.kaufda.de##div>span:has-text(Werkstatt):upward(div)
 www.kaufda.de##div>span:has-text(Mode):upward(div)
 www.kaufda.de##div>span:has-text(Kaufhäuser):upward(div)
 
-! 2024-02-13 https://feedly.com
+! https://feedly.com
 feedly.com##.TopHeaderBar
 feedly.com##.DockedPopupContainer
 feedly.com##.dot-pulse.dot.bottom-left
@@ -391,36 +389,36 @@ feedly.com##div>p>a:has-text("Hofer Spaziergänger"):upward(article)
 feedly.com##div>p>a:has-text("Reparaturcafé am"):upward(article)
 feedly.com##div>p>a:has-text("Polizeibericht vom"):upward(article)
 
-! 2024-02-20 https://www.reddit.com
+! https://www.reddit.com
 www.reddit.com##embed-snippet-share-button
 www.reddit.com##faceplate-tracker>a:has-text(qualityvote2):upward(shreddit-comment)
 www.reddit.com##faceplate-tracker>a:has-text(AutoModerator):upward(shreddit-comment)
 www.reddit.com##faceplate-tracker>a:has-text(Judgement_Bot_AITA):upward(shreddit-comment)
 www.reddit.com##reddit-recent-pages
 
-! 2024-02-23 https://translate.google.com
+! https://translate.google.com
 translate.google.com###google-hats-survey
 
-! 2024-04-02 https://www.smarthomeassistent.de
+! https://www.smarthomeassistent.de
 www.smarthomeassistent.de##.cf.wrap.adslot_header
 
-! 2024-05-18 https://storiesig.info
+! https://storiesig.info
 storiesig.info##.b-widget-left
 
-! 2024-05-19 https://imginn.com
+! https://imginn.com
 imginn.com##.block-sulvo
 
-! 8 Jun 2024 https://eksiseyler.com
+! https://eksiseyler.com
 eksiseyler.com###mobil-share-topbar
 eksiseyler.com##.vertical-share-panel
 eksiseyler.com##.fb_iframe_widget.fb-page
 
-! 9 Jun 2024 https://www.sozcu.com.tr
+! https://www.sozcu.com.tr
 www.sozcu.com.tr##.mb-4.sidebar-300x250.ad
 www.sozcu.com.tr##.mb-4.masthead-main.masthead.ad
 www.sozcu.com.tr##.news-body > .mb-4.masthead.ad
 
-! 9 Jun 2024 https://www.theguardian.com
+! https://www.theguardian.com
 www.theguardian.com##.dcr-1x8q7qo
 www.theguardian.com##.dcr-173mewl
 www.theguardian.com##.dcr-oadkbb
@@ -430,37 +428,38 @@ www.theguardian.com##.dcr-9l2r49 > gu-island
 www.theguardian.com##.dcr-1q6i02t.top-banner-ad-container
 www.theguardian.com##.dcr-zb0oro.ad-slot-container
 
-! 9 Jun 2024 https://e24.no
+! https://e24.no
 e24.no##.advertory-e24-topboard-wrapper
 e24.no##div.advertory-e24-netboard-wrapper
 
-! 28 Aug 2024 - Sign in with Google Pop-ups
+! Sign in with Google Pop-ups
 ||smartlock.google.com^
 ||id.google.com^
 ||accounts.google.com/gsi/$3p
 
-! 10 Sept 2024 https://www.deepl.com
+! https://www.deepl.com
 deepl.com###glossarySuggestionsDialogPortal
 deepl.com##span>div>div>div>div>div>span:has-text(DeepL Write):upward(span)
 deepl.com##[data-testid="start-free-trial-button"]
 deepl.com##[data-testid="write-advertisement-banner"]
 
-! 17 Oct 2024 https://www.lastpass.com
+! https://www.lastpass.com
 www.lastpass.com##.callout-cards--padding-top.callout-cards
 www.lastpass.com##.top-banner--light.top-banner
 
-! 17 Nov 2024 https://assettocorsamods.io
+! https://assettocorsamods.io
 assettocorsamods.io##div > .billboard-height.display-flex
 assettocorsamods.io##.billboard-height.display-flex.assettocorsamods_io_billboard_2
 assettocorsamods.io##.billboard-height.display-flex.assettocorsamods_io_billboard_2
 
-! 5 Dec 2024 https://www.theverge.com
+! https://www.theverge.com
 www.theverge.com###zephr-footer-container
 www.theverge.com##.zephr-overlay
 www.theverge.com###zephr-footer-container
+www.theverge.com##.duet--article--related
 www.theverge.com##._10nsm9324._10nsm930._10nsm931._10nsm93q
 
-! 10 Dec 2024 https://www.frankenpost.de
+! https://www.frankenpost.de
 www.frankenpost.de##.billboard-wrapper
 www.frankenpost.de###leaderboard_1
 www.frankenpost.de###article-plus-upsc-plus
@@ -471,28 +470,28 @@ www.frankenpost.de##.rectangle.brick
 www.frankenpost.de###article-container > .brickgroup
 ||topteaser.hcsb-2.de/fp-topteaser-desktop/$subdocument
 
-! 11 Dec 2024 https://www.mydealz.de
+! https://www.mydealz.de
 www.mydealz.de##div[id^="customBannerList"]
 www.mydealz.de##.cept-site.space--fromW3-b-3.space--fromW3-t-3.space--v-2.boxAlign-jc--all-c.flex.messages-item--type-site.messages-item
 www.mydealz.de##.space--t-4.color--static.color--text-TranslucentInvertedPrimary.page-space--v-l.page-content.page-center.page-footer
 www.mydealz.de##.space--fromW3-b-0.page-space--v-l.page-center.page-footer
 www.mydealz.de##.space--fromW3-r-2.space--fromW3-l-0.space--l-3.footer-sectionBorder
 
-! 2 Jan 2025 https://www.dw.com
+! https://www.dw.com
 www.dw.com##div.big.embed.vjs-wrapper
 www.dw.com##.flipthis-highlight
 
-! 13 Jan 2025 https://maxread.substack.com/
+! https://maxread.substack.com/
 maxread.substack.com##*:style(font-family: Arial !important)
 
-! 17 Jan 2025 https://docs.google.com
+! https://docs.google.com
 docs.google.com##.docs-homescreen-fcc-flex-contracted.docs-homescreen-fcc-flex
 
-! Jan 23, 2025 https://www.404media.co
+! https://www.404media.co
 www.404media.co##.kg-callout-card-grey.kg-callout-card.kg-card
 www.404media.co##.no-overflow.post__content > [src]
 
-! Jan 30, 2025 https://www.hochfranken-live.de
+! https://www.hochfranken-live.de
 www.hochfranken-live.de###slider-container195
 www.hochfranken-live.de###top > .row-fluid
 www.hochfranken-live.de##..moduletable.crate_mainbody
@@ -513,7 +512,7 @@ www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-ty
 www.hochfranken-live.de##.fsl-buttons
 ||www.hochfranken-live.de/images/vishay-logo-1280x1024.png$image
 
-! Jan 30, 2025 https://hochfranken-live.de
+! https://hochfranken-live.de
 hochfranken-live.de###slider-container195
 hochfranken-live.de###top > .row-fluid
 hochfranken-live.de##..moduletable.crate_mainbody
@@ -534,7 +533,7 @@ hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(9
 hochfranken-live.de##.fsl-buttons
 ||hochfranken-live.de/images/vishay-logo-1280x1024.png$image
 
-! Jan 17, 2025 https://www.autoscout24.com
+! https://www.autoscout24.com
 www.autoscout24.com###finance-section > .DetailsSection_detailsSection__FJZXR
 
 ! https://www.thelocal.xx
@@ -551,15 +550,15 @@ www.thelocal.de##.tp-modal-open:style(overflow:visible !important;)
 www.thelocal.de##^script:has-text(window.tp.experience.init())
 www.thelocal.de##+js(rmnt, script, window.tp.experience.init())
 
-! Feb 5, 2025 https://extraetf.com
+! https://extraetf.com
 extraetf.com##.ng-star-inserted.pt-4.external-video-container
 
-! Mar 5, 2025 https://arstechnica.com
+! https://arstechnica.com
 arstechnica.com##.cne-interlude-container
 
-! Mar 29, 2025 https://boingboing.net
+! https://boingboing.net
 boingboing.net###modalOverlay
 
-! Apr 18, 2025 https://www.reifen.com
+! https://www.reifen.com
 www.reifen.com##.wrp-insurancedetailbox
 
