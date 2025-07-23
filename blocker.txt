@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.65
-! Last modified: 2025-07-16 09:10
+! Version: 1.66
+! Last modified: 2025-07-23 09:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -440,8 +440,13 @@ e24.no##div.advertory-e24-netboard-wrapper
 ! https://www.deepl.com
 deepl.com###glossarySuggestionsDialogPortal
 deepl.com##span>div>div>div>div>div>span:has-text(DeepL Write):upward(span)
+deepl.com##span>div>div>div>div>div>span:has-text("DeepL Write"):upward(span)
+deepl.com##span>a:has-text("Sales kontaktieren"):upward(span)
+deepl.com##div>a:has-text("Sales-Team kontaktieren"):upward(div)
+deepl.com##div>a:has-text("Kostenloses Probeabo starten"):upward(div)
 deepl.com##[data-testid="start-free-trial-button"]
 deepl.com##[data-testid="write-advertisement-banner"]
+deepl.com##.homeExperience-module--homeExperience--904c9
 
 ! https://www.lastpass.com
 www.lastpass.com##.callout-cards--padding-top.callout-cards
