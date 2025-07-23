@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.66
-! Last modified: 2025-07-23 09:30
+! Version: 1.67
+! Last modified: 2025-07-23 09:40
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -499,7 +499,7 @@ www.404media.co##.no-overflow.post__content > [src]
 ! https://www.hochfranken-live.de
 www.hochfranken-live.de###slider-container195
 www.hochfranken-live.de###top > .row-fluid
-www.hochfranken-live.de##..moduletable.crate_mainbody
+www.hochfranken-live.de##.moduletable.crate_mainbody
 www.hochfranken-live.de##div:nth-of-type(1) > .moduletable.crate_mainbody
 www.hochfranken-live.de##div.moduletable.crate:nth-of-type(1)
 www.hochfranken-live.de##div.moduletable.crate:nth-of-type(3)
@@ -520,7 +520,7 @@ www.hochfranken-live.de##.fsl-buttons
 ! https://hochfranken-live.de
 hochfranken-live.de###slider-container195
 hochfranken-live.de###top > .row-fluid
-hochfranken-live.de##..moduletable.crate_mainbody
+hochfranken-live.de##.moduletable.crate_mainbody
 hochfranken-live.de##div:nth-of-type(1) > .moduletable.crate_mainbody
 hochfranken-live.de##div.moduletable.crate:nth-of-type(1)
 hochfranken-live.de##div.moduletable.crate:nth-of-type(3)
