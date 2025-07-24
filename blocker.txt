@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.67
-! Last modified: 2025-07-23 09:40
+! Version: 1.68
+! Last modified: 2025-07-24 15:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -514,6 +514,7 @@ www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-ty
 www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(5)
 www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(6)
 www.hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(9)
+www.hochfranken-live.de##div>h2>a:has-text("Anzeige"):upward(div)
 www.hochfranken-live.de##.fsl-buttons
 ||www.hochfranken-live.de/images/vishay-logo-1280x1024.png$image
 
@@ -535,6 +536,7 @@ hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(4
 hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(5)
 hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(6)
 hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(9)
+hochfranken-live.de##div>h2>a:has-text("Anzeige"):upward(div)
 hochfranken-live.de##.fsl-buttons
 ||hochfranken-live.de/images/vishay-logo-1280x1024.png$image
 
