@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.68
-! Last modified: 2025-07-24 15:30
+! Version: 1.69
+! Last modified: 2025-07-30 09:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -463,6 +463,9 @@ www.theverge.com##.zephr-overlay
 www.theverge.com###zephr-footer-container
 www.theverge.com##.duet--article--related
 www.theverge.com##._10nsm9324._10nsm930._10nsm931._10nsm93q
+www.theverge.com##._14ksbek4._6cuzo21
+www.theverge.com##._1p1nf4x3
+www.theverge.com##.tly2fw0
 
 ! https://www.frankenpost.de
 www.frankenpost.de##.billboard-wrapper
