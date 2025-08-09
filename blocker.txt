@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.70
-! Last modified: 2025-08-04 09:55
+! Version: 1.71
+! Last modified: 2025-08-09 18:25
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -570,6 +570,8 @@ arstechnica.com##.cne-interlude-container
 ! https://boingboing.net
 boingboing.net###modalOverlay
 
+! Aug 9, 2025 https://kanyarfoto.com
+||kanyarfoto.com/img/merch_popup.png$image
 ! https://www.reifen.com
 www.reifen.com##.wrp-insurancedetailbox
 
