@@ -61,6 +61,7 @@ suchen.mobile.de##.flipthis-highlight
 suchen.mobile.de##.vip-placeholder
 suchen.mobile.de##.B5A5a.QyTg6.IvkY6
 suchen.mobile.de##.vTKPY.UiXjD.A3G6X
+www.mobile.de##.vTKPY.xzwDO.A3G6X
 mobile.de##[data-testid="home-fallback-image-slot"]
 mobile.de##[data-testid="home-deals"]
 mobile.de##[data-testid="home-all-mobility-needs"]
