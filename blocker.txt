@@ -55,32 +55,9 @@ www.rotmain-center.de##.in.mdl-overlay
 store.steampowered.com##.broadcast_embed_top_ctn_trgt
 
 ! https://suchen.mobile.de
-www.mobile.de##.ret-car-valuation-box.cBox--content.cBox
-www.mobile.de##.home-box-container
-www.mobile.de##.u-pad-bottom-18.cBox--content.cBox
-www.mobile.de###widn
-www.mobile.de###popular-box
-suchen.mobile.de##.cBox--content.cBox.S_05_ADSENSE_CSA_VIP_BOTTOM_en.adv
-suchen.mobile.de##.SRP_TABLECELL_UPPER_de.adv
-suchen.mobile.de##.SRP_SBANNER_BOTTOM_de.adv
-suchen.mobile.de##.u-no-pad.kleinanzeigenBox.cBox--content.cBox
-suchen.mobile.de##.u-no-pad-top.envkvBox.u-bg-transparent.cBox
-suchen.mobile.de##.u-no-pad.ebaykBox.cBox--content.cBox
-suchen.mobile.de##.pubse-footer
-suchen.mobile.de##.tools.g-row
-suchen.mobile.de##.srp-placeholder
-suchen.mobile.de##.DSP_BILLBOARD_en.adv
-suchen.mobile.de##.smava-integration--main.smava-integration.cBox--content.cBox
-suchen.mobile.de##.force-medium
+suchen.mobile.de##.flipthis-highlight
 suchen.mobile.de##.vip-placeholder
-suchen.mobile.de##.cBox--saveSearchBanner.cBox-body
-suchen.mobile.de##.u-no-pad.envkvBox.u-bg-transparent.cBox
-suchen.mobile.de###parking-overlay-thumb
-suchen.mobile.de##.W0RYj.KnOLI.m7u5r
-suchen.mobile.de##.W0RYj.KnOLI
-suchen.mobile.de##.HaBLt.jKo2y
-suchen.mobile.de##.RC3dA.JccNx
-suchen.mobile.de##.RC3dA.IUDVP
+suchen.mobile.de##[data-testid="srx-result-list-container"]
 
 ! https://canary.giggl.app
 canary.giggl.app##.cuOtHq.sc-pAZqv
