@@ -570,8 +570,11 @@ arstechnica.com##.cne-interlude-container
 ! https://boingboing.net
 boingboing.net###modalOverlay
 
-! Aug 9, 2025 https://kanyarfoto.com
+! https://kanyarfoto.com
 ||kanyarfoto.com/img/merch_popup.png$image
+
 ! https://www.reifen.com
 www.reifen.com##.wrp-insurancedetailbox
 
+! https://www.tagesschau.de
+www.tagesschau.de##.copytext__audio
