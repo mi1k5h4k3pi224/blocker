@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.76
-! Last modified: 2025-08-17 13:50
+! Version: 1.77
+! Last modified: 2025-08-17 14:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -55,9 +55,19 @@ www.rotmain-center.de##.in.mdl-overlay
 store.steampowered.com##.broadcast_embed_top_ctn_trgt
 
 ! https://suchen.mobile.de
+suchen.mobile.de##[data-testid="srx-result-list-container"]
+suchen.mobile.de##[data-testid="kleinanzeigen-box"]
 suchen.mobile.de##.flipthis-highlight
 suchen.mobile.de##.vip-placeholder
-suchen.mobile.de##[data-testid="srx-result-list-container"]
+suchen.mobile.de##.B5A5a.QyTg6.IvkY6
+suchen.mobile.de##.vTKPY.UiXjD.A3G6X
+mobile.de##[data-testid="home-fallback-image-slot"]
+mobile.de##[data-testid="home-deals"]
+mobile.de##[data-testid="home-all-mobility-needs"]
+mobile.de##[data-testid="home-magazine-section-container"]
+mobile.de##[data-testid="home-seo-brand-section"]
+mobile.de##[data-testid="home-seo-links-section"]
+mobile.de##[data-testid="home-seo-section-container"]
 
 ! https://canary.giggl.app
 canary.giggl.app##.cuOtHq.sc-pAZqv
