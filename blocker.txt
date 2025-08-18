@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.79
-! Last modified: 2025-08-17 14:05
+! Version: 1.80
+! Last modified: 2025-08-18 12:50
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -469,6 +469,8 @@ www.frankenpost.de###article-container > .brickgroup
 
 ! https://www.mydealz.de
 www.mydealz.de##div[id^="customBannerList"]
+www.mydealz.de##div[id^="keywordSuggestionsWidgetPortal"]
+www.mydealz.de##[data-t="priceComparison"]
 www.mydealz.de##.cept-site.space--fromW3-b-3.space--fromW3-t-3.space--v-2.boxAlign-jc--all-c.flex.messages-item--type-site.messages-item
 www.mydealz.de##.space--t-4.color--static.color--text-TranslucentInvertedPrimary.page-space--v-l.page-content.page-center.page-footer
 www.mydealz.de##.space--fromW3-b-0.page-space--v-l.page-center.page-footer
