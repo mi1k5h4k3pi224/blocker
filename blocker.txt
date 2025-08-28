@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.83
-! Last modified: 2025-08-27 09:15
+! Version: 1.84
+! Last modified: 2025-08-28 14:15
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -135,10 +135,12 @@ open.spotify.com##.sponsor-container
 open.spotify.com##section:has-text(/^Podcasts/)
 open.spotify.com##section:has-text(/^Episodes/)
 open.spotify.com##section:has-text(/^Shows/)
+open.spotify.com##section:has-text(/^Audiobooks/)
 open.spotify.com##[aria-label^="Explore "]
 spotify.com##section:has-text(/^Podcasts/)
 spotify.com##section:has-text(/^Episodes/)
 spotify.com##section:has-text(/^Shows/)
+spotify.com##section:has-text(/^Audiobooks/)
 
 ! https://passionforengine.de
 passionforengine.de##.recommendation-modal__container
