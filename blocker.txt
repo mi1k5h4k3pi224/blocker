@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.89
-! Last modified: 2025-08-30 11:50
+! Version: 1.90
+! Last modified: 2025-08-30 11:55
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -62,6 +62,7 @@ suchen.mobile.de##.vip-placeholder
 suchen.mobile.de##.B5A5a.QyTg6.IvkY6
 suchen.mobile.de##.vTKPY.UiXjD.A3G6X
 www.mobile.de##.vTKPY.xzwDO.A3G6X
+mobile.de###T_02_ADSENSE_CSA_VIP_BOTTOM
 mobile.de##[data-testid="home-fallback-image-slot"]
 mobile.de##[data-testid="home-deals"]
 mobile.de##[data-testid="home-all-mobility-needs"]
@@ -69,7 +70,10 @@ mobile.de##[data-testid="home-magazine-section-container"]
 mobile.de##[data-testid="home-seo-brand-section"]
 mobile.de##[data-testid="home-seo-links-section"]
 mobile.de##[data-testid="home-seo-section-container"]
+mobile.de##[data-testid="vip-price-box"]
 mobile.de##[data-testid="vip-insurance-box"]
+mobile.de##[data-testid="vip-financing-monthly-rate"]
+mobile.de##[data-testid="vip-vehicle-overview-fin-link"]
 mobile.de##[data-testid="VIP_BILLBOARD"]:upward(1)
 mobile.de##[data-testid="VIP_MRECT_PREMIUM"]:upward(1)
 mobile.de##[data-testid="VIP_MRECT_PREMIUM_ADSENSE"]:upward(1)
