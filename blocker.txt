@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.88
-! Last modified: 2025-08-30 11:45
+! Version: 1.89
+! Last modified: 2025-08-30 11:50
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -69,7 +69,10 @@ mobile.de##[data-testid="home-magazine-section-container"]
 mobile.de##[data-testid="home-seo-brand-section"]
 mobile.de##[data-testid="home-seo-links-section"]
 mobile.de##[data-testid="home-seo-section-container"]
+mobile.de##[data-testid="vip-insurance-box"]
 mobile.de##[data-testid="VIP_BILLBOARD"]:upward(1)
+mobile.de##[data-testid="VIP_MRECT_PREMIUM"]:upward(1)
+mobile.de##[data-testid="VIP_MRECT_PREMIUM_ADSENSE"]:upward(1)
 
 ! https://canary.giggl.app
 canary.giggl.app##.cuOtHq.sc-pAZqv
