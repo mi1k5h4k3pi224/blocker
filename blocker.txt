@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.92
-! Last modified: 2025-09-01 09:10
+! Version: 1.93
+! Last modified: 2025-09-01 09:20
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -61,7 +61,7 @@ suchen.mobile.de##.flipthis-highlight
 suchen.mobile.de##.vip-placeholder
 suchen.mobile.de##.B5A5a.QyTg6.IvkY6
 suchen.mobile.de##.vTKPY.UiXjD.A3G6X
-suchen.mobile.de##[data-testid="SRP_TABLECELL_UPPER_ADSENSE"]:upward(1)
+suchen.mobile.de###SRP_TABLECELL_UPPER_ADSENSE:upward(1)
 www.mobile.de##.vTKPY.xzwDO.A3G6X
 mobile.de###T_02_ADSENSE_CSA_VIP_BOTTOM
 mobile.de##[data-testid="home-fallback-image-slot"]
@@ -397,11 +397,12 @@ feedly.com##div>p>a:has-text("Polizeibericht vom"):upward(article)
 
 ! https://www.reddit.com
 www.reddit.com##embed-snippet-share-button
+www.reddit.com##reddit-recent-pages
+www.reddit.com##span[data-part="advertise"]
 www.reddit.com##faceplate-tracker>a:has-text(qualityvote2):upward(shreddit-comment)
 www.reddit.com##faceplate-tracker>a:has-text(PCMRBot):upward(shreddit-comment)
 www.reddit.com##faceplate-tracker>a:has-text(AutoModerator):upward(shreddit-comment)
 www.reddit.com##faceplate-tracker>a:has-text(Judgement_Bot_AITA):upward(shreddit-comment)
-www.reddit.com##reddit-recent-pages
 
 ! https://translate.google.com
 translate.google.com###google-hats-survey
