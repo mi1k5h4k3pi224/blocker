@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.94
-! Last modified: 2025-09-01 09:30
+! Version: 1.95
+! Last modified: 2025-09-01 09:35
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -399,6 +399,7 @@ feedly.com##div>p>a:has-text("Polizeibericht vom"):upward(article)
 ! https://www.reddit.com
 www.reddit.com##embed-snippet-share-button
 www.reddit.com##reddit-recent-pages
+www.reddit.com##recent-posts
 www.reddit.com##span[data-part="advertise"]
 www.reddit.com##faceplate-tracker>a:has-text(qualityvote2):upward(shreddit-comment)
 www.reddit.com##faceplate-tracker>a:has-text(PCMRBot):upward(shreddit-comment)
