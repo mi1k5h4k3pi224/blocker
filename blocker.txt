@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 1.95
-! Last modified: 2025-09-01 09:35
+! Version: 1.96
+! Last modified: 2025-09-02 10:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -256,6 +256,10 @@ eksisozluk.com##ul>li>a:has-text("fb-"):upward(li)
 eksisozluk.com##ul>li>a:has-text("gs-"):upward(li)
 eksisozluk.com##ul>li>a:has-text("bjk-"):upward(li)
 eksisozluk.com##ul>li>a:has-text("ts-"):upward(li)
+eksisozluk.com##ul>li>a:has-text("fb'"):upward(li)
+eksisozluk.com##ul>li>a:has-text("gs'"):upward(li)
+eksisozluk.com##ul>li>a:has-text("bjk'"):upward(li)
+eksisozluk.com##ul>li>a:has-text("ts'"):upward(li)
 
 ! https://www.sahibinden.com
 www.sahibinden.com##.showed-once.search-leaderboard-banner
