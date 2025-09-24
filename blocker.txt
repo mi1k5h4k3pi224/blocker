@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.01
-! Last modified: 2025-09-18 11:40
+! Version: 2.02
+! Last modified: 2025-09-24 09:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -359,6 +359,21 @@ feedly.com##.dot-pulse.dot.bottom-left
 feedly.com##[aria-label="Toggle AI Actions Panel"]:upward(div)
 feedly.com##.ttd9OnxwNDCiFtsXMqqf.HpfjfDvNq7dU0VmCDlEn.sluaNmDifJ3fslxNky8J.ze_kUyDCqAgUXZoGLkkF.wy6Kk8iCNGAMUhOLnevd.zwPp9DCWpO_pA0T1FkGM
 feedly.com##div>div>div>div:has-text(sponsored):upward(4)
+
+feedly.com##div>p>a:has-text("The MacRumors Show:"):upward(article)
+feedly.com##div>p>a:has-text("The MacRumors Show:"):upward(article)
+feedly.com##div>p>a:has-text("MacRumors Giveaway:"):upward(article)
+feedly.com##div>p>a:has-text("Apple Deals of the Week:"):upward(article)
+feedly.com##div>p>a:has-text("percent off"):upward(article)
+feedly.com##div>p>a:has-text("on Prime Day"):upward(article)
+feedly.com##div>p>a:has-text("for Prime Day"):upward(article)
+feedly.com##div>p>a:has-text("during Prime Day"):upward(article)
+feedly.com##div>p>a:has-text("Prime Day deals"):upward(article)
+feedly.com##div>p>a:has-text("Prime Day Deals"):upward(article)
+feedly.com##div>p>a:has-text("Prime Day sales"):upward(article)
+feedly.com##div>p>a:has-text("Prime Day Sales"):upward(article)
+feedly.com##div>p>a:has-text("Top Stories:"):upward(article)
+
 feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
 feedly.com##div>p>a:has-text(15 Minuten:):upward(article)
 feedly.com##div>p>a:has-text(15-Minuten-Podcast:):upward(article)
@@ -371,18 +386,7 @@ feedly.com##div>p>a:has-text("Mal angenommen: "):upward(article)
 feedly.com##div>p>a:has-text("mal angenommen"):upward(article)
 feedly.com##div>p>a:has-text("Zukunftspodcast:"):upward(article)
 feedly.com##div>p>a:has-text("BR24 Retro"):upward(article)
-feedly.com##div>p>a:has-text("The MacRumors Show:"):upward(article)
-feedly.com##div>p>a:has-text("The MacRumors Show:"):upward(article)
-feedly.com##div>p>a:has-text("MacRumors Giveaway:"):upward(article)
-feedly.com##div>p>a:has-text("Apple Deals of the Week:"):upward(article)
-feedly.com##div>p>a:has-text("on Prime Day"):upward(article)
-feedly.com##div>p>a:has-text("for Prime Day"):upward(article)
-feedly.com##div>p>a:has-text("during Prime Day"):upward(article)
-feedly.com##div>p>a:has-text("Prime Day deals"):upward(article)
-feedly.com##div>p>a:has-text("Prime Day Deals"):upward(article)
-feedly.com##div>p>a:has-text("Prime Day sales"):upward(article)
-feedly.com##div>p>a:has-text("Prime Day Sales"):upward(article)
-feedly.com##div>p>a:has-text("Top Stories:"):upward(article)
+
 feedly.com##div>p>a:has-text("Ukraine-Liveblog"):upward(article)
 feedly.com##div>p>a:has-text("Ukraine-Ticker"):upward(article)
 feedly.com##div>p>a:has-text("Nahost-Liveblog"):upward(article)
