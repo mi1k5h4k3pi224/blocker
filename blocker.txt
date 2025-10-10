@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.05
-! Last modified: 2025-10-10 09:35
+! Version: 2.07
+! Last modified: 2025-10-10 09:40
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
