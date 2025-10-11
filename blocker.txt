@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.07
-! Last modified: 2025-10-10 09:40
+! Version: 2.08
+! Last modified: 2025-10-11 12:20
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -397,8 +397,8 @@ feedly.com##div>p>a:has-text("Syrische"):upward(article)
 feedly.com##div>p>a:has-text("Transfer-Ticker"):upward(article)
 feedly.com##div>p>a:has-text("DAX"):upward(article)
 
-feedly.com##div>p>a:has-text("Kulmbach :"):upward(article)
-feedly.com##div>p>a:has-text("Kulmbach:"):upward(article)
+feedly.com##div>p>a:has-text("Kulmbach"):upward(article)
+feedly.com##div>p>a:has-text("Kulmbacher"):upward(article)
 feedly.com##div>p>a:has-text("Seniorenfahrt"):upward(article)
 feedly.com##div>p>a:has-text("Kaffeeklatsch"):upward(article)
 feedly.com##div>p>a:has-text("Spektrum Selb"):upward(article)
