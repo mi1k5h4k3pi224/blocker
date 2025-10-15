@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.08
-! Last modified: 2025-10-11 12:20
+! Version: 2.09
+! Last modified: 2025-10-15 17:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -617,3 +617,5 @@ regardwear.com##div.ikas-popup-default-styles
 regardwear.com##.marquee-container
 regardwear.com###announcements-main
 
+! https://kayak.de
+kayak.de##[aria-label="Feedback-Formular"]:upward(div)
