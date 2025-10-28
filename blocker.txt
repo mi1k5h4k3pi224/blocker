@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.09
-! Last modified: 2025-10-15 17:00
+! Version: 2.10
+! Last modified: 2025-10-28 10:45
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -182,8 +182,6 @@ www.facebook.com##.r5g9zsuq.q46jt4gp > div > .gve6y6jg
 www.instagram.com##.xw7yly9.x1njnjl6.x2lah0s.x1c4vz4f
 
 ! https://www.youtube.com
-! www.youtube.com##.ytd-download-button-renderer.style-scope
-! www.youtube.com##yt-button-view-model.ytd-menu-renderer.style-scope
 www.youtube.com##.ytp-paid-content-overlay
 www.youtube.com##.ytp-button.branding-img-container
 www.youtube.com###sponsor-button
@@ -209,22 +207,6 @@ www.youtube.com##div.ytp-menuitem>div:has-text("Beleuchtung wie im Kino"):upward
 www.youtube.com##div.ytp-menuitem>div:has-text("Anmerkungen"):upward(.ytp-menuitem)
 www.youtube.com##div.ytp-menuitem>div:has-text("Ruhemodus-Timer"):upward(.ytp-menuitem)
 www.youtube.com##div.ytp-menuitem-with-footer>div:has-text("Benutzerdefiniert"):upward(.ytp-menuitem-with-footer)
-
-! YouTube Shorts
-www.youtube.com##ytd-guide-renderer a.yt-simple-endpoint[title="Shorts"]:upward(ytd-guide-entry-renderer)
-www.youtube.com##ytd-mini-guide-renderer a.yt-simple-endpoint[title="Shorts"]:upward(ytd-mini-guide-entry-renderer)
-www.youtube.com##ytd-browse #dismissible ytd-rich-grid-slim-media[is-short]:upward(ytd-rich-section-renderer)
-www.youtube.com##ytd-browse ytd-grid-video-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer:has-text(/\s(0:\d\d|1:0\d)\s/))
-www.youtube.com##ytd-browse ytd-rich-item-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer:has-text(/\s(0:\d\d|1:0\d)\s/))
-www.youtube.com##ytd-search ytd-video-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer:has-text(/\s(0:\d\d|1:0\d)\s/))
-www.youtube.com##ytd-watch-next-secondary-results-renderer ytd-compact-video-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer:has-text(/\s(0:\d\d|1:0\d)\s/))
-www.youtube.com##ytd-browse ytd-grid-video-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"])
-www.youtube.com##ytd-browse ytd-rich-item-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"])
-www.youtube.com##ytd-search ytd-video-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"])
-www.youtube.com##ytd-watch-next-secondary-results-renderer ytd-compact-video-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"])
-www.youtube.com##ytd-watch-next-secondary-results-renderer ytd-shelf-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"])
-www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"]:upward(ytd-item-section-renderer)
-www.youtube.com##ytd-browse[page-subtype="channels"] #contents.ytd-reel-shelf-renderer:upward(ytd-item-section-renderer)
 
 ! https://mytuner-radio.com
 ||static2.mytuner.mobi/static/images/sprite-40.png$image
