@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.14
-! Last modified: 2025-11-10 09:50
+! Version: 2.15
+! Last modified: 2025-11-10 16:20
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -128,9 +128,6 @@ www.bonappetit.com##.sticky-box.duhIvo.StickyBoxWrapper-euhCxU
 
 ! https://www.primewire.li
 www.primewire.li##.nopop.spn-btns
-
-! https://hqporner.com
-hqporner.com##.black_friday
 
 ! https://petrolheart.com
 petrolheart.com##.loox-pn-bottom_left.loox-pn--shown.loox-pn
@@ -263,9 +260,6 @@ www.steamgifts.com##.horizontal.fanatical_container
 www.steamgifts.com##.dont_block_me
 ||cdn.steamgifts.com/img/fanatical_spring_sale.gif$image
 
-! 2023-05-16 https://hqporner.com
-hqporner.com##.hide_ad_marker.button
-
 ! https://www.cimri.com
 www.cimri.com###adslot-masthead
 
@@ -355,6 +349,7 @@ feedly.com##div>p>a:has-text(/Prime Day deals/i):upward(article)
 feedly.com##div>p>a:has-text(/Prime Day sales/i):upward(article)
 feedly.com##div>p>a:has-text(/Black Friday sale/i):upward(article)
 feedly.com##div>p>a:has-text(/Black Friday deals/i):upward(article)
+feedly.com##div>p>a:has-text(/new low price/i):upward(article)
 feedly.com##div>p>a:has-text("Top Stories:"):upward(article)
 
 feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
@@ -414,6 +409,10 @@ storiesig.info##.b-widget-left
 
 ! https://imginn.com
 imginn.com##.block-sulvo
+
+! https://hqporner.com
+hqporner.com##.hide_ad_marker.button
+hqporner.com##.black_friday
 
 ! https://eksiseyler.com
 eksiseyler.com###mobil-share-topbar
