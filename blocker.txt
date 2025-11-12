@@ -1,11 +1,75 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.15
-! Last modified: 2025-11-10 16:20
+! Version: 2.20
+! Last modified: 2025-11-12 08:20
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
-! -------------------------------------------------------------------------------------------
+! --------------[Feedly]-----------------------------------------------------------------------------
+
+! https://feedly.com
+feedly.com##.TopHeaderBar
+feedly.com##.DockedPopupContainer
+feedly.com##.dot-pulse.dot.bottom-left
+feedly.com##[aria-label="Toggle AI Actions Panel"]:upward(div)
+feedly.com##.ttd9OnxwNDCiFtsXMqqf.HpfjfDvNq7dU0VmCDlEn.sluaNmDifJ3fslxNky8J.ze_kUyDCqAgUXZoGLkkF.wy6Kk8iCNGAMUhOLnevd.zwPp9DCWpO_pA0T1FkGM
+feedly.com##div>div>div>div:has-text(sponsored):upward(4)
+! [Tech]
+feedly.com##div>p>a:has-text("The MacRumors Show:"):upward(article)
+feedly.com##div>p>a:has-text("The MacRumors Show:"):upward(article)
+feedly.com##div>p>a:has-text("MacRumors Giveaway:"):upward(article)
+feedly.com##div>p>a:has-text("Apple Deals of the Week:"):upward(article)
+feedly.com##div>p>a:has-text("Top Stories:"):upward(article)
+feedly.com##div>p>a:has-text("percent off"):upward(article)
+feedly.com##div>p>a:has-text("on Prime Day"):upward(article)
+feedly.com##div>p>a:has-text("for Prime Day"):upward(article)
+feedly.com##div>p>a:has-text("during Prime Day"):upward(article)
+! [Tech case insensitive]
+feedly.com##div>p>a:has-text(/Prime Day event/i):upward(article)
+feedly.com##div>p>a:has-text(/Prime Day deals/i):upward(article)
+feedly.com##div>p>a:has-text(/Prime Day sales/i):upward(article)
+feedly.com##div>p>a:has-text(/early Black Friday/i):upward(article)
+feedly.com##div>p>a:has-text(/Black Friday sale/i):upward(article)
+feedly.com##div>p>a:has-text(/Black Friday deals/i):upward(article)
+feedly.com##div>p>a:has-text(/new low price/i):upward(article)
+! [DE Series]
+feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
+feedly.com##div>p>a:has-text(15 Minuten:):upward(article)
+feedly.com##div>p>a:has-text(15-Minuten-Podcast:):upward(article)
+feedly.com##div>p>a:has-text(11KM-Podcast):upward(article)
+feedly.com##div>p>a:has-text(11KM Podcast):upward(article)
+feedly.com##div>p>a:has-text(Podcast 11KM):upward(article)
+feedly.com##div>p>a:has-text(Podcast 11 KM):upward(article)
+feedly.com##div>p>a:has-text(11KM:):upward(article)
+feedly.com##div>p>a:has-text("Mal angenommen: "):upward(article)
+feedly.com##div>p>a:has-text("mal angenommen"):upward(article)
+feedly.com##div>p>a:has-text("Zukunftspodcast:"):upward(article)
+feedly.com##div>p>a:has-text("BR24 Retro"):upward(article)
+! [DE Ticker/Liveblog]
+feedly.com##div>p>a:has-text("Ukraine-Liveblog"):upward(article)
+feedly.com##div>p>a:has-text("Ukraine-Ticker"):upward(article)
+feedly.com##div>p>a:has-text("Nahost-Liveblog"):upward(article)
+feedly.com##div>p>a:has-text("Nahost-Ticker"):upward(article)
+feedly.com##div>p>a:has-text("Nahost-Blog"):upward(article)
+feedly.com##div>p>a:has-text("Syrer"):upward(article)
+feedly.com##div>p>a:has-text("Syrien"):upward(article)
+feedly.com##div>p>a:has-text("Syrische"):upward(article)
+feedly.com##div>p>a:has-text("Transfer-Ticker"):upward(article)
+feedly.com##div>p>a:has-text("DAX"):upward(article)
+! [DE Local]
+feedly.com##div>p>a:has-text("Kulmbach"):upward(article)
+feedly.com##div>p>a:has-text("Kulmbacher"):upward(article)
+feedly.com##div>p>a:has-text("Kronach"):upward(article)
+feedly.com##div>p>a:has-text("Kronacher"):upward(article)
+feedly.com##div>p>a:has-text("Seniorenfahrt"):upward(article)
+feedly.com##div>p>a:has-text("Kaffeeklatsch"):upward(article)
+feedly.com##div>p>a:has-text("Spektrum Selb"):upward(article)
+feedly.com##div>p>a:has-text(/In der region: was am/i):upward(article)
+feedly.com##div>p>a:has-text("Hofer Spaziergänger"):upward(article)
+feedly.com##div>p>a:has-text("Reparaturcafé am"):upward(article)
+feedly.com##div>p>a:has-text("Polizeibericht vom"):upward(article)
+
+! --------------[Services]-----------------------------------------------------------------------------
 
 ! https://outlook.live.com
 outlook.live.com###owaMeetNowButton > div
@@ -26,112 +90,6 @@ outlook.live.com##._1dBL6mV6xRANqjh_Z8BjN6 > ._1fti_QgAzqGWPGlqh_FSvI
 outlook.live.com##._1xCBLVKl1qp6BB2jT7GN5b > ._3_hHr3kfEhbNYRFM5YJxH9
 outlook.live.com##._3aRm9-c4VI9gXlSh855LSx._3_hHr3kfEhbNYRFM5YJxH9
 
-! https://onlineservice.esm-selb.de
-onlineservice.esm-selb.de##.modal
-
-! https://app.tutturu.tv
-app.tutturu.tv##.Container_warningPrompt__raE9F.Container_prompt__f5s5K
-
-! https://www.carscoops.com
-www.carscoops.com##.videor.row
-www.carscoops.com##.section5.row.editorp.custom-promo-small
-www.carscoops.com##.section5.sec2head.row
-www.carscoops.com##.videoh.sec2head.row
-www.carscoops.com##.entry-footer
-www.carscoops.com##.article-footer
-www.carscoops.com##.follow-carscoops
-www.carscoops.com##.related
-www.carscoops.com##.addthis-wraper.socials
-
-! https://www.autoblog.com
-www.autoblog.com###adblocker-interstitial
-
-! https://www.rotmain-center.de
-www.rotmain-center.de###mdl-modal-central > .mdl-modal__outer
-www.rotmain-center.de##.in.mdl-modal--no-padding.mdl-modal--central.mdl-modal
-www.rotmain-center.de##.in.mdl-overlay
-
-! https://store.steampowered.com
-store.steampowered.com##.broadcast_embed_top_ctn_trgt
-
-! https://suchen.mobile.de
-suchen.mobile.de##[data-testid="srx-result-list-container"]
-suchen.mobile.de##[data-testid="kleinanzeigen-box"]
-suchen.mobile.de##.flipthis-highlight
-suchen.mobile.de##.vip-placeholder
-suchen.mobile.de##.B5A5a.QyTg6.IvkY6
-suchen.mobile.de##.vTKPY.UiXjD.A3G6X
-suchen.mobile.de###SRP_TABLECELL_UPPER_ADSENSE:upward(1)
-www.mobile.de##.vTKPY.xzwDO.A3G6X
-www.mobile.de##.zxNMJ:style(margin-top: 120px !important; margin-bottom: 100px !important;)
-mobile.de###T_02_ADSENSE_CSA_VIP_BOTTOM
-mobile.de##[data-testid="home-fallback-image-slot"]
-mobile.de##[data-testid="home-deals"]
-mobile.de##[data-testid="home-all-mobility-needs"]
-mobile.de##[data-testid="home-magazine-section-container"]
-mobile.de##[data-testid="home-seo-brand-section"]
-mobile.de##[data-testid="home-seo-links-section"]
-mobile.de##[data-testid="home-seo-section-container"]
-mobile.de##[data-testid="vip-price-box"]
-mobile.de##[data-testid="vip-insurance-box"]
-mobile.de##[data-testid="vip-financing-monthly-rate"]
-mobile.de##[data-testid="vip-vehicle-overview-fin-link"]
-mobile.de##[data-testid="VIP_BILLBOARD"]:upward(1)
-mobile.de##[data-testid="VIP_MRECT_PREMIUM"]:upward(1)
-mobile.de##[data-testid="VIP_MRECT_PREMIUM_ADSENSE"]:upward(1)
-
-! https://canary.giggl.app
-canary.giggl.app##.cuOtHq.sc-pAZqv
-
-! https://teknoseyir.com
-teknoseyir.com##.tepe_reklam
-teknoseyir.com##.liste
-teknoseyir.com###one_cikanlar-21
-teknoseyir.com###one_cikanlar-8
-||teknoseyir.com/wp-content/themes/ts/images/sponsor/almanak_duyuru_calismasi.jpg$image
-||teknoseyir.com/wp-content/themes/ts/sponsor-desktop.php$subdocument
-||teknoseyir.com/sponsor/desktop.php$subdocument
-
-! https://bulten.mserdark.com
-bulten.mserdark.com###subscribe-bar
-
-! https://www.finn.no
-www.finn.no##.adsbox.banners
-www.finn.no###netboard_1
-www.finn.no###netboard_2
-www.finn.no###netboard_3
-www.finn.no###netboard_4
-www.finn.no##.ads__unit--fullwidth.ads__unit--banner.ads__unit
-
-! https://www.routeyou.com
-www.routeyou.com##.adWrapper-largeRectangleDesktop
-
-! https://vk.com
-vk.com##.videoplayer_action_button
-vk.com##.ShortVideoFeedBlock.page_block
-vk.com##._post.post.page_block.RecommendedNarrativesBlock
-vk.com##.feed_groups_recomm_friends.feed_groups_recomm.page_block
-vk.com###block_aliexpress-recommendations-carousel
-vk.com##.apps_feedRightAppsBlock__row
-vk.com##.stories_feed_not_nav_buttons.stories_feed_with_thumb.clear_fix.stories_feed_wrap.page_block
-vk.com##.apps_feedRightAppsBlock_single_app--.apps_feedRightAppsBlock_single_app.apps_feedRightAppsBlock.page_block
-
-! https://www.worldometers.info
-www.worldometers.info##div:nth-of-type(13)
-
-! https://www.aliexpress.com
-www.aliexpress.com##.product-fix-wrap
-de.aliexpress.com##.drogue-poplayer-modal
-
-! https://www.bonappetit.com
-www.bonappetit.com##.sticky-box.duhIvo.StickyBoxWrapper-euhCxU
-
-! https://www.primewire.li
-www.primewire.li##.nopop.spn-btns
-
-! https://petrolheart.com
-petrolheart.com##.loox-pn-bottom_left.loox-pn--shown.loox-pn
-
 ! https://open.spotify.com
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
 open.spotify.com##.main-view-container__mh-footer-container
@@ -149,34 +107,48 @@ spotify.com##section:has-text(/^Episodes/)
 spotify.com##section:has-text(/^Shows/)
 spotify.com##section:has-text(/^Audiobooks/)
 
-! https://passionforengine.de
-passionforengine.de##.recommendation-modal__container
+! https://www.google.com
+||ogs.google.com/widget/callout$subdocument
 
-! https://pixlr.com
-||pixlr.com/dad/slot/$subdocument
-pixlr.com###right-space
+! https://translate.google.com
+translate.google.com###google-hats-survey
 
-! fb - remove "hidden" elements (rules #1 - #4)
-facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(display: none):remove()
-facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(position: absolute):remove()
-facebook.com##[role="feed"] span[id] a[href="/ads/"] :matches-css(display: none):remove()
-facebook.com##[role="feed"] span[id] a[href="/ads/"] :matches-css(position: absolute):remove()
-! fb - detect if a number is NOT visible or space is NOT visible, if so, hide the post
-facebook.com##[role="feed"] span > span > span > a[href="#"] > span > span[class] > [style*="display"]:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"] > div):style(border: 8px dotted pink !important)
-facebook.com##div[role="feed"] div > span > span > a > span:upward(div[role="feed"] > div)
-facebook.com##div[role=article]:has-text(/^Suggested for You/)
-facebook.com##div[data-pagelet*="FeedUnit"]:has(a[aria-label*="Sponsored" i])
-facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(display: none):remove()
-facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(position: absolute):remove()
-facebook.com##[role="feed"] span[id] a[href="#"]:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div)
-! https://www.facebook.com
-www.facebook.com##.x1ceravr.xgmub6v.x193iq5w
-www.facebook.com##div.x1yztbdb > div > div > div > div > .xh8yej3.x1n2onr6.x78zum5
-www.facebook.com##[role=feed]>div [href="/reel/?s=ifu_see_more"]:upward([role=feed]>div)
-www.facebook.com##.r5g9zsuq.q46jt4gp > div > .gve6y6jg
+! https://docs.google.com
+docs.google.com##.docs-homescreen-fcc-flex-contracted.docs-homescreen-fcc-flex
 
-! https://www.instagram.com
-www.instagram.com##.xw7yly9.x1njnjl6.x2lah0s.x1c4vz4f
+! Sign in with Google Pop-ups
+||smartlock.google.com^
+||id.google.com^
+||accounts.google.com/gsi/$3p
+
+! https://www.deepl.com
+deepl.com###glossarySuggestionsDialogPortal
+deepl.com##span>div>div>div>div>div>span:has-text(DeepL Write):upward(span)
+deepl.com##span>div>div>div>div>div>span:has-text("DeepL Write"):upward(span)
+deepl.com##span>a:has-text("Sales kontaktieren"):upward(span)
+deepl.com##div>a:has-text("Sales-Team kontaktieren"):upward(div)
+deepl.com##div>a:has-text("Kostenloses Probeabo starten"):upward(div)
+deepl.com##[data-testid="start-free-trial-button"]
+deepl.com##[data-testid="write-advertisement-banner"]
+deepl.com##[data-testid="suggestion-dialog"]
+deepl.com##[data-testid="ai-labs-banner"]
+deepl.com##[data-testid="above-navigation-banner"]
+deepl.com##.homeExperience-module--homeExperience--904c9
+deepl.com##.rfm-marquee
+
+! https://www.steamgifts.com
+www.steamgifts.com##[src="https://fanatical.imgix.net/product/original/b1d05568-8a60-4243-99b6-1ada901e8d06.jpeg?auto=compress,format&w=300&fit=crop&h=100"]
+www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(5)
+www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(6)
+www.steamgifts.com##div.widget-container--margin-top.widget-container
+www.steamgifts.com##.sidebar__mpu
+www.steamgifts.com##.fanatical_square
+www.steamgifts.com##.vertical.fanatical_container
+www.steamgifts.com##.horizontal.fanatical_container
+www.steamgifts.com##.dont_block_me
+||cdn.steamgifts.com/img/fanatical_spring_sale.gif$image
+
+! --------------[YouTube]-----------------------------------------------------------------------------
 
 ! https://www.youtube.com
 www.youtube.com##.ytp-paid-content-overlay
@@ -205,72 +177,147 @@ www.youtube.com##div.ytp-menuitem>div:has-text("Anmerkungen"):upward(.ytp-menuit
 www.youtube.com##div.ytp-menuitem>div:has-text("Ruhemodus-Timer"):upward(.ytp-menuitem)
 www.youtube.com##div.ytp-menuitem-with-footer>div:has-text("Benutzerdefiniert"):upward(.ytp-menuitem-with-footer)
 
-! https://mytuner-radio.com
-||static2.mytuner.mobi/static/images/sprite-40.png$image
-
-! https://en.zalando.de
-en.zalando.de###view-tracker-wrapper
-
-! https://eksisozluk.com
-eksisozluk.com###embedded-player
-eksisozluk.com##.avatar-container
-eksisozluk.com###index-filter-prefs
-eksisozluk.com##div.fb_iframe_widget.fb-page
-eksisozluk.com##.twitter-follow-button-rendered.twitter-follow-button
-eksisozluk.com##ul>li>a:has-text("fenerbahçe"):upward(li)
-eksisozluk.com##ul>li>a:has-text("galatasaray"):upward(li)
-eksisozluk.com##ul>li>a:has-text("beşiktaş"):upward(li)
-eksisozluk.com##ul>li>a:has-text("trabzonspor"):upward(li)
-eksisozluk.com##ul>li>a:has-text("penaltısı"):upward(li)
-eksisozluk.com##ul>li>a:has-text("penaltı"):upward(li)
-eksisozluk.com##ul>li>a:has-text("mourinho"):upward(li)
-eksisozluk.com##ul>li>a:has-text("şampiyonlar ligi"):upward(li)
-eksisozluk.com##ul>li>a:has-text("türk futbolu"):upward(li)
-eksisozluk.com##ul>li>a:has-text("uefa "):upward(li)
-eksisozluk.com##ul>li>a:has-text("fb "):upward(li)
-eksisozluk.com##ul>li>a:has-text("gs "):upward(li)
-eksisozluk.com##ul>li>a:has-text("bjk "):upward(li)
-eksisozluk.com##ul>li>a:has-text("ts "):upward(li)
-eksisozluk.com##ul>li>a:has-text("fb-"):upward(li)
-eksisozluk.com##ul>li>a:has-text("gs-"):upward(li)
-eksisozluk.com##ul>li>a:has-text("bjk-"):upward(li)
-eksisozluk.com##ul>li>a:has-text("ts-"):upward(li)
-eksisozluk.com##ul>li>a:has-text("fb'"):upward(li)
-eksisozluk.com##ul>li>a:has-text("gs'"):upward(li)
-eksisozluk.com##ul>li>a:has-text("bjk'"):upward(li)
-eksisozluk.com##ul>li>a:has-text("ts'"):upward(li)
-
-! https://www.sahibinden.com
-www.sahibinden.com##.showed-once.search-leaderboard-banner
-
 ! https://music.youtube.com
 music.youtube.com##ytmusic-toggle-menu-service-item-renderer.ytmusic-menu-popup-renderer.style-scope:has-text(/Add to l/)
 music.youtube.com##ytmusic-toggle-menu-service-item-renderer.ytmusic-menu-popup-renderer.style-scope:has-text(/library/)
 music.youtube.com##ytmusic-toggle-menu-service-item-renderer.ytmusic-menu-popup-renderer.style-scope:has-text(/credits/)
 
-! https://www.steamgifts.com
-www.steamgifts.com##[src="https://fanatical.imgix.net/product/original/b1d05568-8a60-4243-99b6-1ada901e8d06.jpeg?auto=compress,format&w=300&fit=crop&h=100"]
-www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(5)
-www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(6)
-www.steamgifts.com##div.widget-container--margin-top.widget-container
-www.steamgifts.com##.sidebar__mpu
-www.steamgifts.com##.fanatical_square
-www.steamgifts.com##.vertical.fanatical_container
-www.steamgifts.com##.horizontal.fanatical_container
-www.steamgifts.com##.dont_block_me
-||cdn.steamgifts.com/img/fanatical_spring_sale.gif$image
+! --------------[Social Media]-----------------------------------------------------------------------------
 
-! https://www.cimri.com
-www.cimri.com###adslot-masthead
+! https://www.reddit.com
+www.reddit.com##embed-snippet-share-button
+www.reddit.com##reddit-recent-pages
+www.reddit.com##recent-posts
+www.reddit.com##span[data-part="advertise"]
+www.reddit.com##faceplate-tracker>a:has-text(qualityvote2):upward(shreddit-comment)
+www.reddit.com##faceplate-tracker>a:has-text(PCMRBot):upward(shreddit-comment)
+www.reddit.com##faceplate-tracker>a:has-text(AutoModerator):upward(shreddit-comment)
+www.reddit.com##faceplate-tracker>a:has-text(Judgement_Bot_AITA):upward(shreddit-comment)
 
-! https://www.alltrails.com
-www.alltrails.com###modalPortal
+! fb - remove "hidden" elements (rules #1 - #4)
+facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(display: none):remove()
+facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(position: absolute):remove()
+facebook.com##[role="feed"] span[id] a[href="/ads/"] :matches-css(display: none):remove()
+facebook.com##[role="feed"] span[id] a[href="/ads/"] :matches-css(position: absolute):remove()
+! fb - detect if a number is NOT visible or space is NOT visible, if so, hide the post
+facebook.com##[role="feed"] span > span > span > a[href="#"] > span > span[class] > [style*="display"]:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"] > div):style(border: 8px dotted pink !important)
+facebook.com##div[role="feed"] div > span > span > a > span:upward(div[role="feed"] > div)
+facebook.com##div[role=article]:has-text(/^Suggested for You/)
+facebook.com##div[data-pagelet*="FeedUnit"]:has(a[aria-label*="Sponsored" i])
+facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(display: none):remove()
+facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(position: absolute):remove()
+facebook.com##[role="feed"] span[id] a[href="#"]:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div)
+! https://www.facebook.com
+www.facebook.com##.x1ceravr.xgmub6v.x193iq5w
+www.facebook.com##div.x1yztbdb > div > div > div > div > .xh8yej3.x1n2onr6.x78zum5
+www.facebook.com##[role=feed]>div [href="/reel/?s=ifu_see_more"]:upward([role=feed]>div)
+www.facebook.com##.r5g9zsuq.q46jt4gp > div > .gve6y6jg
 
-! https://www.immobilienscout24.de
-www.immobilienscout24.de##.content-wrapper--lap-stretch.content-wrapper--palm-stretch.content-wrapper > .banner-top-placeholder
+! https://vk.com
+vk.com##.videoplayer_action_button
+vk.com##.ShortVideoFeedBlock.page_block
+vk.com##._post.post.page_block.RecommendedNarrativesBlock
+vk.com##.feed_groups_recomm_friends.feed_groups_recomm.page_block
+vk.com###block_aliexpress-recommendations-carousel
+vk.com##.apps_feedRightAppsBlock__row
+vk.com##.stories_feed_not_nav_buttons.stories_feed_with_thumb.clear_fix.stories_feed_wrap.page_block
+vk.com##.apps_feedRightAppsBlock_single_app--.apps_feedRightAppsBlock_single_app.apps_feedRightAppsBlock.page_block
 
-! https://www.flightconnections.com
-www.flightconnections.com##.join-flc
+! --------------[News]-----------------------------------------------------------------------------
+
+! https://www.carscoops.com
+www.carscoops.com##.videor.row
+www.carscoops.com##.section5.row.editorp.custom-promo-small
+www.carscoops.com##.section5.sec2head.row
+www.carscoops.com##.videoh.sec2head.row
+www.carscoops.com##.entry-footer
+www.carscoops.com##.article-footer
+www.carscoops.com##.follow-carscoops
+www.carscoops.com##.related
+www.carscoops.com##.addthis-wraper.socials
+
+! https://www.macrumors.com
+www.macrumors.com##.slick-inline-search-panel
+www.macrumors.com###mc-embedded-subscribe-form
+www.macrumors.com##div.block--2_RlJqhg
+www.macrumors.com##.inline--Nnb-B96C.heading--h3--23mHEuMI.heading--1cooZo6n
+
+! https://www.theverge.com
+www.theverge.com###zephr-footer-container
+www.theverge.com##.zephr-overlay
+www.theverge.com###zephr-footer-container
+www.theverge.com##.duet--article--related
+www.theverge.com##._10nsm9324._10nsm930._10nsm931._10nsm93q
+www.theverge.com##._14ksbek4._6cuzo21
+www.theverge.com##._1p1nf4x3
+www.theverge.com##.tly2fw0
+
+! https://www.404media.co
+www.404media.co##.kg-callout-card-grey.kg-callout-card.kg-card
+www.404media.co##.no-overflow.post__content > [src]
+
+! https://arstechnica.com
+arstechnica.com##.cne-interlude-container
+
+! https://9to5mac.com
+9to5mac.com##.article__youtube-video
+
+! https://www.dw.com
+www.dw.com##div.big.embed.vjs-wrapper
+www.dw.com##.flipthis-highlight
+
+! https://www.tagesschau.de
+www.tagesschau.de##.copytext__audio
+www.tagesschau.de##.header-app__eventbox
+www.tagesschau.de##.teaser-absatz
+
+! https://www.theguardian.com
+www.theguardian.com##.dcr-1x8q7qo
+www.theguardian.com##.dcr-173mewl
+www.theguardian.com##.dcr-oadkbb
+www.theguardian.com##.dcr-z2ky1d
+www.theguardian.com##.dcr-1492oy5
+www.theguardian.com##.dcr-9l2r49 > gu-island
+www.theguardian.com##.dcr-1q6i02t.top-banner-ad-container
+www.theguardian.com##.dcr-zb0oro.ad-slot-container
+
+! https://www.computerbild.de
+www.computerbild.de###superbanner
+www.computerbild.de###billboard_btf
+www.computerbild.de##.masonry.labeling.jobbioTeaser
+www.computerbild.de##.ecommerceButton__wrapperLink.textLink
+www.computerbild.de##div.ecommerceButton:nth-of-type(9)
+www.computerbild.de###billboard_btf_2Wrapper
+www.computerbild.de##.ecommerceButton__button.mainButton
+www.computerbild.de###newsletter-teaser-widget
+
+! --------------[Germany 🇩🇪]-----------------------------------------------------------------------------
+
+! https://suchen.mobile.de
+suchen.mobile.de##[data-testid="srx-result-list-container"]
+suchen.mobile.de##[data-testid="kleinanzeigen-box"]
+suchen.mobile.de##.flipthis-highlight
+suchen.mobile.de##.vip-placeholder
+suchen.mobile.de##.B5A5a.QyTg6.IvkY6
+suchen.mobile.de##.vTKPY.UiXjD.A3G6X
+suchen.mobile.de###SRP_TABLECELL_UPPER_ADSENSE:upward(1)
+www.mobile.de##.vTKPY.xzwDO.A3G6X
+www.mobile.de##.zxNMJ:style(margin-top: 120px !important; margin-bottom: 100px !important;)
+mobile.de###T_02_ADSENSE_CSA_VIP_BOTTOM
+mobile.de##[data-testid="home-fallback-image-slot"]
+mobile.de##[data-testid="home-deals"]
+mobile.de##[data-testid="home-all-mobility-needs"]
+mobile.de##[data-testid="home-magazine-section-container"]
+mobile.de##[data-testid="home-seo-brand-section"]
+mobile.de##[data-testid="home-seo-links-section"]
+mobile.de##[data-testid="home-seo-section-container"]
+mobile.de##[data-testid="vip-price-box"]
+mobile.de##[data-testid="vip-insurance-box"]
+mobile.de##[data-testid="vip-financing-monthly-rate"]
+mobile.de##[data-testid="vip-vehicle-overview-fin-link"]
+mobile.de##[data-testid="VIP_BILLBOARD"]:upward(1)
+mobile.de##[data-testid="VIP_MRECT_PREMIUM"]:upward(1)
+mobile.de##[data-testid="VIP_MRECT_PREMIUM_ADSENSE"]:upward(1)
 
 ! https://www.kleinanzeigen.de
 www.ebay-kleinanzeigen.de###liberty-my_ads-top-banner
@@ -287,27 +334,14 @@ www.kleinanzeigen.de##.manageadbox--features
 www.kleinanzeigen.de##.align-center.l-container.banner
 www.kleinanzeigen.de##[data-testid="feature-container"]
 
-! https://www.macrumors.com
-www.macrumors.com##.slick-inline-search-panel
-www.macrumors.com###mc-embedded-subscribe-form
-www.macrumors.com##div.block--2_RlJqhg
-www.macrumors.com##.inline--Nnb-B96C.heading--h3--23mHEuMI.heading--1cooZo6n
-
-! https://www.einbuergerungstest-online.de
-www.einbuergerungstest-online.de##.md\:min-h-\[280px\]
-
-! https://www.computerbild.de
-www.computerbild.de###superbanner
-www.computerbild.de###billboard_btf
-www.computerbild.de##.masonry.labeling.jobbioTeaser
-www.computerbild.de##.ecommerceButton__wrapperLink.textLink
-www.computerbild.de##div.ecommerceButton:nth-of-type(9)
-www.computerbild.de###billboard_btf_2Wrapper
-www.computerbild.de##.ecommerceButton__button.mainButton
-www.computerbild.de###newsletter-teaser-widget
-
-! https://www.google.com
-||ogs.google.com/widget/callout$subdocument
+! https://www.mydealz.de
+www.mydealz.de##div[id^="customBannerList"]
+www.mydealz.de##div[id^="keywordSuggestionsWidgetPortal"]
+www.mydealz.de##[data-t="priceComparison"]
+www.mydealz.de##.cept-site.space--fromW3-b-3.space--fromW3-t-3.space--v-2.boxAlign-jc--all-c.flex.messages-item--type-site.messages-item
+www.mydealz.de##.space--t-4.color--static.color--text-TranslucentInvertedPrimary.page-space--v-l.page-content.page-center.page-footer
+www.mydealz.de##.space--fromW3-b-0.page-space--v-l.page-center.page-footer
+www.mydealz.de##.space--fromW3-r-2.space--fromW3-l-0.space--l-3.footer-sectionBorder
 
 ! https://www.kaufda.de
 www.kaufda.de##.e1ho05yj1
@@ -328,155 +362,6 @@ www.kaufda.de##div>span:has-text(Werkstatt):upward(div)
 www.kaufda.de##div>span:has-text(Mode):upward(div)
 www.kaufda.de##div>span:has-text(Kaufhäuser):upward(div)
 
-! https://feedly.com
-feedly.com##.TopHeaderBar
-feedly.com##.DockedPopupContainer
-feedly.com##.dot-pulse.dot.bottom-left
-feedly.com##[aria-label="Toggle AI Actions Panel"]:upward(div)
-feedly.com##.ttd9OnxwNDCiFtsXMqqf.HpfjfDvNq7dU0VmCDlEn.sluaNmDifJ3fslxNky8J.ze_kUyDCqAgUXZoGLkkF.wy6Kk8iCNGAMUhOLnevd.zwPp9DCWpO_pA0T1FkGM
-feedly.com##div>div>div>div:has-text(sponsored):upward(4)
-
-feedly.com##div>p>a:has-text("The MacRumors Show:"):upward(article)
-feedly.com##div>p>a:has-text("The MacRumors Show:"):upward(article)
-feedly.com##div>p>a:has-text("MacRumors Giveaway:"):upward(article)
-feedly.com##div>p>a:has-text("Apple Deals of the Week:"):upward(article)
-feedly.com##div>p>a:has-text("percent off"):upward(article)
-feedly.com##div>p>a:has-text("on Prime Day"):upward(article)
-feedly.com##div>p>a:has-text("for Prime Day"):upward(article)
-feedly.com##div>p>a:has-text("during Prime Day"):upward(article)
-feedly.com##div>p>a:has-text(/Prime Day event/i):upward(article)
-feedly.com##div>p>a:has-text(/Prime Day deals/i):upward(article)
-feedly.com##div>p>a:has-text(/Prime Day sales/i):upward(article)
-feedly.com##div>p>a:has-text(/Black Friday sale/i):upward(article)
-feedly.com##div>p>a:has-text(/Black Friday deals/i):upward(article)
-feedly.com##div>p>a:has-text(/new low price/i):upward(article)
-feedly.com##div>p>a:has-text("Top Stories:"):upward(article)
-
-feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
-feedly.com##div>p>a:has-text(15 Minuten:):upward(article)
-feedly.com##div>p>a:has-text(15-Minuten-Podcast:):upward(article)
-feedly.com##div>p>a:has-text(11KM-Podcast):upward(article)
-feedly.com##div>p>a:has-text(11KM Podcast):upward(article)
-feedly.com##div>p>a:has-text(Podcast 11KM):upward(article)
-feedly.com##div>p>a:has-text(Podcast 11 KM):upward(article)
-feedly.com##div>p>a:has-text(11KM:):upward(article)
-feedly.com##div>p>a:has-text("Mal angenommen: "):upward(article)
-feedly.com##div>p>a:has-text("mal angenommen"):upward(article)
-feedly.com##div>p>a:has-text("Zukunftspodcast:"):upward(article)
-feedly.com##div>p>a:has-text("BR24 Retro"):upward(article)
-
-feedly.com##div>p>a:has-text("Ukraine-Liveblog"):upward(article)
-feedly.com##div>p>a:has-text("Ukraine-Ticker"):upward(article)
-feedly.com##div>p>a:has-text("Nahost-Liveblog"):upward(article)
-feedly.com##div>p>a:has-text("Nahost-Ticker"):upward(article)
-feedly.com##div>p>a:has-text("Nahost-Blog"):upward(article)
-feedly.com##div>p>a:has-text("Syrer"):upward(article)
-feedly.com##div>p>a:has-text("Syrien"):upward(article)
-feedly.com##div>p>a:has-text("Syrische"):upward(article)
-feedly.com##div>p>a:has-text("Transfer-Ticker"):upward(article)
-feedly.com##div>p>a:has-text("DAX"):upward(article)
-
-feedly.com##div>p>a:has-text("Kulmbach"):upward(article)
-feedly.com##div>p>a:has-text("Kulmbacher"):upward(article)
-feedly.com##div>p>a:has-text("Kronach"):upward(article)
-feedly.com##div>p>a:has-text("Kronacher"):upward(article)
-feedly.com##div>p>a:has-text("Seniorenfahrt"):upward(article)
-feedly.com##div>p>a:has-text("Kaffeeklatsch"):upward(article)
-feedly.com##div>p>a:has-text("Spektrum Selb"):upward(article)
-feedly.com##div>p>a:has-text(/In der region: was am/i):upward(article)
-feedly.com##div>p>a:has-text("Hofer Spaziergänger"):upward(article)
-feedly.com##div>p>a:has-text("Reparaturcafé am"):upward(article)
-feedly.com##div>p>a:has-text("Polizeibericht vom"):upward(article)
-
-! https://www.reddit.com
-www.reddit.com##embed-snippet-share-button
-www.reddit.com##reddit-recent-pages
-www.reddit.com##recent-posts
-www.reddit.com##span[data-part="advertise"]
-www.reddit.com##faceplate-tracker>a:has-text(qualityvote2):upward(shreddit-comment)
-www.reddit.com##faceplate-tracker>a:has-text(PCMRBot):upward(shreddit-comment)
-www.reddit.com##faceplate-tracker>a:has-text(AutoModerator):upward(shreddit-comment)
-www.reddit.com##faceplate-tracker>a:has-text(Judgement_Bot_AITA):upward(shreddit-comment)
-
-! https://translate.google.com
-translate.google.com###google-hats-survey
-
-! https://www.smarthomeassistent.de
-www.smarthomeassistent.de##.cf.wrap.adslot_header
-
-! https://storiesig.info
-storiesig.info##.b-widget-left
-
-! https://imginn.com
-imginn.com##.block-sulvo
-
-! https://hqporner.com
-hqporner.com##.hide_ad_marker.button
-hqporner.com##.black_friday
-
-! https://eksiseyler.com
-eksiseyler.com###mobil-share-topbar
-eksiseyler.com##.vertical-share-panel
-eksiseyler.com##.fb_iframe_widget.fb-page
-
-! https://www.sozcu.com.tr
-www.sozcu.com.tr##.mb-4.sidebar-300x250.ad
-www.sozcu.com.tr##.mb-4.masthead-main.masthead.ad
-www.sozcu.com.tr##.news-body > .mb-4.masthead.ad
-
-! https://www.theguardian.com
-www.theguardian.com##.dcr-1x8q7qo
-www.theguardian.com##.dcr-173mewl
-www.theguardian.com##.dcr-oadkbb
-www.theguardian.com##.dcr-z2ky1d
-www.theguardian.com##.dcr-1492oy5
-www.theguardian.com##.dcr-9l2r49 > gu-island
-www.theguardian.com##.dcr-1q6i02t.top-banner-ad-container
-www.theguardian.com##.dcr-zb0oro.ad-slot-container
-
-! https://e24.no
-e24.no##.advertory-e24-topboard-wrapper
-e24.no##div.advertory-e24-netboard-wrapper
-
-! Sign in with Google Pop-ups
-||smartlock.google.com^
-||id.google.com^
-||accounts.google.com/gsi/$3p
-
-! https://www.deepl.com
-deepl.com###glossarySuggestionsDialogPortal
-deepl.com##span>div>div>div>div>div>span:has-text(DeepL Write):upward(span)
-deepl.com##span>div>div>div>div>div>span:has-text("DeepL Write"):upward(span)
-deepl.com##span>a:has-text("Sales kontaktieren"):upward(span)
-deepl.com##div>a:has-text("Sales-Team kontaktieren"):upward(div)
-deepl.com##div>a:has-text("Kostenloses Probeabo starten"):upward(div)
-deepl.com##[data-testid="start-free-trial-button"]
-deepl.com##[data-testid="write-advertisement-banner"]
-deepl.com##[data-testid="suggestion-dialog"]
-deepl.com##[data-testid="ai-labs-banner"]
-deepl.com##[data-testid="above-navigation-banner"]
-deepl.com##.homeExperience-module--homeExperience--904c9
-deepl.com##.rfm-marquee
-
-! https://www.lastpass.com
-www.lastpass.com##.callout-cards--padding-top.callout-cards
-www.lastpass.com##.top-banner--light.top-banner
-
-! https://assettocorsamods.io
-assettocorsamods.io##div > .billboard-height.display-flex
-assettocorsamods.io##.billboard-height.display-flex.assettocorsamods_io_billboard_2
-assettocorsamods.io##.billboard-height.display-flex.assettocorsamods_io_billboard_2
-
-! https://www.theverge.com
-www.theverge.com###zephr-footer-container
-www.theverge.com##.zephr-overlay
-www.theverge.com###zephr-footer-container
-www.theverge.com##.duet--article--related
-www.theverge.com##._10nsm9324._10nsm930._10nsm931._10nsm93q
-www.theverge.com##._14ksbek4._6cuzo21
-www.theverge.com##._1p1nf4x3
-www.theverge.com##.tly2fw0
-
 ! https://www.frankenpost.de
 www.frankenpost.de##.billboard-wrapper
 www.frankenpost.de###leaderboard_1
@@ -487,29 +372,6 @@ www.frankenpost.de###hcsb-topteaser-upper
 www.frankenpost.de##.rectangle.brick
 www.frankenpost.de###article-container > .brickgroup
 ||topteaser.hcsb-2.de/fp-topteaser-desktop/$subdocument
-
-! https://www.mydealz.de
-www.mydealz.de##div[id^="customBannerList"]
-www.mydealz.de##div[id^="keywordSuggestionsWidgetPortal"]
-www.mydealz.de##[data-t="priceComparison"]
-www.mydealz.de##.cept-site.space--fromW3-b-3.space--fromW3-t-3.space--v-2.boxAlign-jc--all-c.flex.messages-item--type-site.messages-item
-www.mydealz.de##.space--t-4.color--static.color--text-TranslucentInvertedPrimary.page-space--v-l.page-content.page-center.page-footer
-www.mydealz.de##.space--fromW3-b-0.page-space--v-l.page-center.page-footer
-www.mydealz.de##.space--fromW3-r-2.space--fromW3-l-0.space--l-3.footer-sectionBorder
-
-! https://www.dw.com
-www.dw.com##div.big.embed.vjs-wrapper
-www.dw.com##.flipthis-highlight
-
-! https://maxread.substack.com/
-maxread.substack.com##*:style(font-family: Arial !important)
-
-! https://docs.google.com
-docs.google.com##.docs-homescreen-fcc-flex-contracted.docs-homescreen-fcc-flex
-
-! https://www.404media.co
-www.404media.co##.kg-callout-card-grey.kg-callout-card.kg-card
-www.404media.co##.no-overflow.post__content > [src]
 
 ! https://www.hochfranken-live.de
 www.hochfranken-live.de###slider-container195
@@ -555,8 +417,65 @@ hochfranken-live.de##div>h2>a:has-text("Anzeige"):upward(div)
 hochfranken-live.de##.fsl-buttons
 ||hochfranken-live.de/images/vishay-logo-1280x1024.png$image
 
-! https://www.autoscout24.com
-www.autoscout24.com###finance-section > .DetailsSection_detailsSection__FJZXR
+! --------------[Turkey 🇹🇷]-----------------------------------------------------------------------------
+
+! https://eksisozluk.com
+eksisozluk.com###embedded-player
+eksisozluk.com##.avatar-container
+eksisozluk.com###index-filter-prefs
+eksisozluk.com##div.fb_iframe_widget.fb-page
+eksisozluk.com##.twitter-follow-button-rendered.twitter-follow-button
+eksisozluk.com##ul>li>a:has-text("fenerbahçe"):upward(li)
+eksisozluk.com##ul>li>a:has-text("galatasaray"):upward(li)
+eksisozluk.com##ul>li>a:has-text("beşiktaş"):upward(li)
+eksisozluk.com##ul>li>a:has-text("trabzonspor"):upward(li)
+eksisozluk.com##ul>li>a:has-text("penaltısı"):upward(li)
+eksisozluk.com##ul>li>a:has-text("penaltı"):upward(li)
+eksisozluk.com##ul>li>a:has-text("mourinho"):upward(li)
+eksisozluk.com##ul>li>a:has-text("şampiyonlar ligi"):upward(li)
+eksisozluk.com##ul>li>a:has-text("türk futbolu"):upward(li)
+eksisozluk.com##ul>li>a:has-text("uefa "):upward(li)
+eksisozluk.com##ul>li>a:has-text("fb "):upward(li)
+eksisozluk.com##ul>li>a:has-text("gs "):upward(li)
+eksisozluk.com##ul>li>a:has-text("bjk "):upward(li)
+eksisozluk.com##ul>li>a:has-text("ts "):upward(li)
+eksisozluk.com##ul>li>a:has-text("fb-"):upward(li)
+eksisozluk.com##ul>li>a:has-text("gs-"):upward(li)
+eksisozluk.com##ul>li>a:has-text("bjk-"):upward(li)
+eksisozluk.com##ul>li>a:has-text("ts-"):upward(li)
+eksisozluk.com##ul>li>a:has-text("fb'"):upward(li)
+eksisozluk.com##ul>li>a:has-text("gs'"):upward(li)
+eksisozluk.com##ul>li>a:has-text("bjk'"):upward(li)
+eksisozluk.com##ul>li>a:has-text("ts'"):upward(li)
+
+! https://eksiseyler.com
+eksiseyler.com###mobil-share-topbar
+eksiseyler.com##.vertical-share-panel
+eksiseyler.com##.fb_iframe_widget.fb-page
+
+! https://www.sozcu.com.tr
+www.sozcu.com.tr##.mb-4.sidebar-300x250.ad
+www.sozcu.com.tr##.mb-4.masthead-main.masthead.ad
+www.sozcu.com.tr##.news-body > .mb-4.masthead.ad
+
+! https://teknoseyir.com
+teknoseyir.com##.tepe_reklam
+teknoseyir.com##.liste
+teknoseyir.com###one_cikanlar-21
+teknoseyir.com###one_cikanlar-8
+||teknoseyir.com/wp-content/themes/ts/images/sponsor/almanak_duyuru_calismasi.jpg$image
+||teknoseyir.com/wp-content/themes/ts/sponsor-desktop.php$subdocument
+||teknoseyir.com/sponsor/desktop.php$subdocument
+
+! --------------[Norway 🇳🇴]-----------------------------------------------------------------------------
+
+! https://www.finn.no
+www.finn.no##.adsbox.banners
+www.finn.no###netboard_1
+www.finn.no###netboard_2
+www.finn.no###netboard_3
+www.finn.no###netboard_4
+www.finn.no##.ads__unit--fullwidth.ads__unit--banner.ads__unit
 
 ! https://www.thelocal.xx
 www.thelocal.no##*:style(font-family: Arial !important)
@@ -572,11 +491,104 @@ www.thelocal.de##.tp-modal-open:style(overflow:visible !important;)
 www.thelocal.de##^script:has-text(window.tp.experience.init())
 www.thelocal.de##+js(rmnt, script, window.tp.experience.init())
 
+! https://e24.no
+e24.no##.advertory-e24-topboard-wrapper
+e24.no##div.advertory-e24-netboard-wrapper
+
+! --------------[Others]-----------------------------------------------------------------------------
+
+! https://www.routeyou.com
+www.routeyou.com##.adWrapper-largeRectangleDesktop
+
+! https://www.autoblog.com
+www.autoblog.com###adblocker-interstitial
+
+! https://store.steampowered.com
+store.steampowered.com##.broadcast_embed_top_ctn_trgt
+
+! https://bulten.mserdark.com
+bulten.mserdark.com###subscribe-bar
+
+! https://www.worldometers.info
+www.worldometers.info##div:nth-of-type(13)
+
+! https://www.aliexpress.com
+www.aliexpress.com##.product-fix-wrap
+de.aliexpress.com##.drogue-poplayer-modal
+
+! https://www.bonappetit.com
+www.bonappetit.com##.sticky-box.duhIvo.StickyBoxWrapper-euhCxU
+
+! https://onlineservice.esm-selb.de
+onlineservice.esm-selb.de##.modal
+
+! https://www.primewire.li
+www.primewire.li##.nopop.spn-btns
+
+! https://petrolheart.com
+petrolheart.com##.loox-pn-bottom_left.loox-pn--shown.loox-pn
+
+! https://passionforengine.de
+passionforengine.de##.recommendation-modal__container
+
+! https://pixlr.com
+||pixlr.com/dad/slot/$subdocument
+pixlr.com###right-space
+
+! https://www.instagram.com
+www.instagram.com##.xw7yly9.x1njnjl6.x2lah0s.x1c4vz4f
+
+! https://mytuner-radio.com
+||static2.mytuner.mobi/static/images/sprite-40.png$image
+
+! https://en.zalando.de
+en.zalando.de###view-tracker-wrapper
+
+! https://www.sahibinden.com
+www.sahibinden.com##.showed-once.search-leaderboard-banner
+
+! https://www.cimri.com
+www.cimri.com###adslot-masthead
+
+! https://www.alltrails.com
+www.alltrails.com###modalPortal
+
+! https://www.immobilienscout24.de
+www.immobilienscout24.de##.content-wrapper--lap-stretch.content-wrapper--palm-stretch.content-wrapper > .banner-top-placeholder
+
+! https://www.flightconnections.com
+www.flightconnections.com##.join-flc
+
+! https://www.smarthomeassistent.de
+www.smarthomeassistent.de##.cf.wrap.adslot_header
+
+! https://storiesig.info
+storiesig.info##.b-widget-left
+
+! https://imginn.com
+imginn.com##.block-sulvo
+
+! https://hqporner.com
+hqporner.com##.hide_ad_marker.button
+hqporner.com##.black_friday
+
+! https://www.lastpass.com
+www.lastpass.com##.callout-cards--padding-top.callout-cards
+www.lastpass.com##.top-banner--light.top-banner
+
+! https://assettocorsamods.io
+assettocorsamods.io##div > .billboard-height.display-flex
+assettocorsamods.io##.billboard-height.display-flex.assettocorsamods_io_billboard_2
+assettocorsamods.io##.billboard-height.display-flex.assettocorsamods_io_billboard_2
+
+! https://maxread.substack.com/
+maxread.substack.com##*:style(font-family: Arial !important)
+
+! https://www.autoscout24.com
+www.autoscout24.com###finance-section > .DetailsSection_detailsSection__FJZXR
+
 ! https://extraetf.com
 extraetf.com##.ng-star-inserted.pt-4.external-video-container
-
-! https://arstechnica.com
-arstechnica.com##.cne-interlude-container
 
 ! https://boingboing.net
 boingboing.net###modalOverlay
@@ -587,16 +599,8 @@ boingboing.net###modalOverlay
 ! https://www.reifen.com
 www.reifen.com##.wrp-insurancedetailbox
 
-! https://www.tagesschau.de
-www.tagesschau.de##.copytext__audio
-www.tagesschau.de##.header-app__eventbox
-www.tagesschau.de##.teaser-absatz
-
 ! https://www.disqus.com
 ||disqus.com/recommendations/$subdocument
-
-! https://9to5mac.com
-9to5mac.com##.article__youtube-video
 
 ! https://regardwear.com
 regardwear.com##div.ikas-popup-default-styles
