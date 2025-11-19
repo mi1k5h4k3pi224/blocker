@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.22
-! Last modified: 2025-11-15 18:16
+! Version: 2.23
+! Last modified: 2025-11-19 16:45
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -28,10 +28,11 @@ feedly.com##div>p>a:has-text("during Prime Day"):upward(article)
 feedly.com##div>p>a:has-text(/Prime Day event/i):upward(article)
 feedly.com##div>p>a:has-text(/Prime Day deals/i):upward(article)
 feedly.com##div>p>a:has-text(/Prime Day sales/i):upward(article)
-feedly.com##div>p>a:has-text(/early Black Friday/i):upward(article)
 feedly.com##div>p>a:has-text(/Black Friday sale/i):upward(article)
 feedly.com##div>p>a:has-text(/Black Friday deals/i):upward(article)
 feedly.com##div>p>a:has-text(/Black Friday Apple deals/i):upward(article)
+feedly.com##div>p>a:has-text(/Black Friday TV deals/i):upward(article)
+feedly.com##div>p>a:has-text(/early Black Friday/i):upward(article)
 feedly.com##div>p>a:has-text(/new low price/i):upward(article)
 ! [DE Series]
 feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
