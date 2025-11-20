@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.24
-! Last modified: 2025-11-20 09:15
+! Version: 2.25
+! Last modified: 2025-11-20 09:25
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -137,6 +137,7 @@ deepl.com##[data-testid="suggestion-dialog"]
 deepl.com##[data-testid="ai-labs-banner"]
 deepl.com##[data-testid="above-navigation-banner"]
 deepl.com##.homeExperience-module--homeExperience--904c9
+deepl.com##.animatedLogoCloud_container__TAOPC
 deepl.com##.rfm-marquee
 
 ! https://www.steamgifts.com
@@ -612,3 +613,6 @@ regardwear.com###announcements-main
 
 ! https://kayak.de
 kayak.de##[aria-label="Feedback-Formular"]:upward(div)
+
+! https://www.blocket.se
+www.blocket.se##.max-w-980.w-980.lg\:block.mx-auto.py-2.hidden.fQcXRM.dDuBQA.sc-94bd82cf-0.sc-74561233-0
