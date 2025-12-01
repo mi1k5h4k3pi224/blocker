@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.28
-! Last modified: 2025-11-25 15:22
+! Version: 2.29
+! Last modified: 2025-12-01 12:55
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -619,3 +619,6 @@ kayak.de##[aria-label="Feedback-Formular"]:upward(div)
 
 ! https://www.blocket.se
 www.blocket.se##.max-w-980.w-980.lg\:block.mx-auto.py-2.hidden.fQcXRM.dDuBQA.sc-94bd82cf-0.sc-74561233-0
+
+! https://www.tvmovie.de
+www.tvmovie.de##.ada-preservespace-superbanner_1-wallpaper_1.bx-ada--superbanner_1-wallpaper_1.bx-ada--top-slots.bx-ada
