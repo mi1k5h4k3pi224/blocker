@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.29
-! Last modified: 2025-12-01 12:55
+! Version: 2.30
+! Last modified: 2025-12-02 10:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -34,6 +34,18 @@ feedly.com##div>p>a:has-text(/Black Friday Apple deals/i):upward(article)
 feedly.com##div>p>a:has-text(/Black Friday TV deals/i):upward(article)
 feedly.com##div>p>a:has-text(/early Black Friday/i):upward(article)
 feedly.com##div>p>a:has-text(/for Black Friday/i):upward(article)
+feedly.com##div>p>a:has-text(/Black Week sale/i):upward(article)
+feedly.com##div>p>a:has-text(/Black Week deals/i):upward(article)
+feedly.com##div>p>a:has-text(/for Black Week/i):upward(article)
+feedly.com##div>p>a:has-text(/Cyber Monday sale/i):upward(article)
+feedly.com##div>p>a:has-text(/Cyber Monday deals/i):upward(article)
+feedly.com##div>p>a:has-text(/Cyber Monday Apple deals/i):upward(article)
+feedly.com##div>p>a:has-text(/Cyber Monday TV deals/i):upward(article)
+feedly.com##div>p>a:has-text(/early Cyber Monday/i):upward(article)
+feedly.com##div>p>a:has-text(/for Cyber Monday/i):upward(article)
+feedly.com##div>p>a:has-text(/Cyber Week sale/i):upward(article)
+feedly.com##div>p>a:has-text(/Cyber Week deals/i):upward(article)
+feedly.com##div>p>a:has-text(/for Cyber Week/i):upward(article)
 feedly.com##div>p>a:has-text(/new low price/i):upward(article)
 ! [DE Series]
 feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
