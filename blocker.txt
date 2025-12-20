@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.31
-! Last modified: 2025-12-10 09:35
+! Version: 2.32
+! Last modified: 2025-12-20 15:35
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -208,6 +208,7 @@ www.reddit.com##embed-snippet-share-button
 www.reddit.com##reddit-recent-pages
 www.reddit.com##recent-posts
 www.reddit.com###games_section
+www.reddit.com###right-rail-experience-root > faceplate-tracker
 www.reddit.com##span[data-part="advertise"]
 www.reddit.com##faceplate-tracker>a:has-text(qualityvote2):upward(shreddit-comment)
 www.reddit.com##faceplate-tracker>a:has-text(PCMRBot):upward(shreddit-comment)
@@ -525,6 +526,7 @@ www.autoblog.com###adblocker-interstitial
 
 ! https://store.steampowered.com
 store.steampowered.com##.broadcast_embed_top_ctn_trgt
+store.steampowered.com##.saleEventBannerLink
 
 ! https://bulten.mserdark.com
 bulten.mserdark.com###subscribe-bar
@@ -635,3 +637,7 @@ www.blocket.se##.max-w-980.w-980.lg\:block.mx-auto.py-2.hidden.fQcXRM.dDuBQA.sc-
 
 ! https://www.tvmovie.de
 www.tvmovie.de##.ada-preservespace-superbanner_1-wallpaper_1.bx-ada--superbanner_1-wallpaper_1.bx-ada--top-slots.bx-ada
+
+! https://www.carsized.com
+www.carsized.com##[href^="https://www.carvertical.com/gb/landing/v3"]
+
