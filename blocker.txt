@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.33
-! Last modified: 2025-12-24 10:35
+! Version: 2.34
+! Last modified: 2025-12-24 10:50
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -141,6 +141,7 @@ docs.google.com##.docs-homescreen-fcc-flex-contracted.docs-homescreen-fcc-flex
 deepl.com###glossarySuggestionsDialogPortal
 deepl.com##span>div>div>div>div>div>span:has-text(DeepL Write):upward(span)
 deepl.com##span>div>div>div>div>div>span:has-text("DeepL Write"):upward(span)
+deepl.com##section>h1:has-text("AI solutions"):upward(section)
 deepl.com##span>a:has-text("Sales kontaktieren"):upward(span)
 deepl.com##div>a:has-text("Sales-Team kontaktieren"):upward(div)
 deepl.com##div>a:has-text("Kostenloses Probeabo starten"):upward(div)
@@ -152,6 +153,7 @@ deepl.com##[data-testid="ai-labs-banner"]
 deepl.com##[data-testid="above-navigation-banner"]
 deepl.com##.animatedLogoCloud_running__XU0kD.animatedLogoCloud_ltr__4G3Jo.animatedLogoCloud_scroller__b69y9
 deepl.com##.homeExperience-module--homeExperience--904c9
+deepl.com##.homeExperience_homeExperience__ixC9_
 deepl.com##.animatedLogoCloud_container__TAOPC
 deepl.com##.rfm-marquee
 
