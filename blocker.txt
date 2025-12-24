@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.32
-! Last modified: 2025-12-20 15:35
+! Version: 2.33
+! Last modified: 2025-12-24 10:35
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -15,7 +15,7 @@ feedly.com##[aria-label="Toggle AI Actions Panel"]:upward(div)
 feedly.com##.ttd9OnxwNDCiFtsXMqqf.HpfjfDvNq7dU0VmCDlEn.sluaNmDifJ3fslxNky8J.ze_kUyDCqAgUXZoGLkkF.wy6Kk8iCNGAMUhOLnevd.zwPp9DCWpO_pA0T1FkGM
 feedly.com##div>div>div>div:has-text(sponsored):upward(4)
 ! [Tech]
-feedly.com##div>p>a:has-text("The MacRumors Show:"):upward(article)
+feedly.com##div>p>a:has-text("Vergecast:"):upward(article)
 feedly.com##div>p>a:has-text("The MacRumors Show:"):upward(article)
 feedly.com##div>p>a:has-text("MacRumors Giveaway:"):upward(article)
 feedly.com##div>p>a:has-text("Apple Deals of the Week:"):upward(article)
