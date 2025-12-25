@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.34
-! Last modified: 2025-12-24 10:50
+! Version: 2.35
+! Last modified: 2025-12-25 11:10
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -128,9 +128,6 @@ spotify.com##section:has-text(/^Audiobooks/)
 
 ! https://translate.google.com
 translate.google.com###google-hats-survey
-
-! https://docs.google.com
-docs.google.com##.docs-homescreen-fcc-flex-contracted.docs-homescreen-fcc-flex
 
 ! Sign in with Google Pop-ups
 ||smartlock.google.com^
@@ -639,6 +636,10 @@ www.blocket.se##.max-w-980.w-980.lg\:block.mx-auto.py-2.hidden.fQcXRM.dDuBQA.sc-
 
 ! https://www.tvmovie.de
 www.tvmovie.de##.ada-preservespace-superbanner_1-wallpaper_1.bx-ada--superbanner_1-wallpaper_1.bx-ada--top-slots.bx-ada
+
+! https://www.prisma.de
+www.prisma.de###rp_rpd_ca
+www.prisma.de##.news-details__article-socials
 
 ! https://www.carsized.com
 www.carsized.com##[href^="https://www.carvertical.com/gb/landing/v3"]
