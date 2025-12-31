@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.36
-! Last modified: 2025-12-31 10:10
+! Version: 2.37
+! Last modified: 2025-12-31 10:15
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -155,15 +155,15 @@ deepl.com##.animatedLogoCloud_container__TAOPC
 deepl.com##.rfm-marquee
 
 ! https://www.steamgifts.com
+||cdn.steamgifts.com/img/fanatical_spring_sale.gif$image
 www.steamgifts.com##[src="https://fanatical.imgix.net/product/original/b1d05568-8a60-4243-99b6-1ada901e8d06.jpeg?auto=compress,format&w=300&fit=crop&h=100"]
 www.steamgifts.com##.sidebar__mpu
 www.steamgifts.com##.fanatical_square
 www.steamgifts.com##.vertical.fanatical_container
 www.steamgifts.com##.horizontal.fanatical_container
 www.steamgifts.com##.dont_block_me
-||cdn.steamgifts.com/img/fanatical_spring_sale.gif$image
+www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(6)
 ! www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(5)
-! www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(6)
 ! www.steamgifts.com##div.widget-container--margin-top.widget-container
 
 ! --------------[YouTube]-----------------------------------------------------------------------------
