@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.37
-! Last modified: 2025-12-31 10:15
+! Version: 2.38
+! Last modified: 2026-01-02 11:45
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -232,6 +232,12 @@ www.facebook.com##.x1ceravr.xgmub6v.x193iq5w
 www.facebook.com##div.x1yztbdb > div > div > div > div > .xh8yej3.x1n2onr6.x78zum5
 www.facebook.com##[role=feed]>div [href="/reel/?s=ifu_see_more"]:upward([role=feed]>div)
 www.facebook.com##.r5g9zsuq.q46jt4gp > div > .gve6y6jg
+
+! https://x.com
+x.com##[aria-label="Grok"]
+x.com##[aria-label="Premium"]
+x.com##[aria-label="Who to follow"]
+x.com##[data-testid="GrokDrawer"]
 
 ! https://vk.com
 vk.com##.videoplayer_action_button
