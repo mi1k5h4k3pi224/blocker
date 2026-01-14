@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.38
-! Last modified: 2026-01-02 11:45
+! Version: 2.39
+! Last modified: 2026-01-14 09:45
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -442,6 +442,9 @@ hochfranken-live.de##div.__text_mode_custom_bg__.moduletable.crate:nth-of-type(9
 hochfranken-live.de##div>h2>a:has-text("Anzeige"):upward(div)
 hochfranken-live.de##.fsl-buttons
 ||hochfranken-live.de/images/vishay-logo-1280x1024.png$image
+
+! https://www.2ertalk.de
+www.2ertalk.de##span:has-text("Anzeige"):upward(article)
 
 ! --------------[Turkey 🇹🇷]-----------------------------------------------------------------------------
 
