@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.39
-! Last modified: 2026-01-14 09:45
+! Version: 2.40
+! Last modified: 2026-01-18 22:20
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -458,6 +458,7 @@ eksisozluk.com##ul>li>a:has-text("fenerbahçe"):upward(li)
 eksisozluk.com##ul>li>a:has-text("galatasaray"):upward(li)
 eksisozluk.com##ul>li>a:has-text("beşiktaş"):upward(li)
 eksisozluk.com##ul>li>a:has-text("trabzonspor"):upward(li)
+eksisozluk.com##ul>li>a:has-text(" maçı"):upward(li)
 eksisozluk.com##ul>li>a:has-text("penaltısı"):upward(li)
 eksisozluk.com##ul>li>a:has-text("penaltı"):upward(li)
 eksisozluk.com##ul>li>a:has-text("mourinho"):upward(li)
