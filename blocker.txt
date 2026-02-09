@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.41
-! Last modified: 2026-01-26 07:45
+! Version: 2.42
+! Last modified: 2026-02-09 21:10
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -397,6 +397,7 @@ www.frankenpost.de##.upscore-paywall-placeholder
 www.frankenpost.de###bottomteaser
 www.frankenpost.de###hcsb-topteaser-upper
 www.frankenpost.de##.rectangle.brick
+www.frankenpost.de###head-slider-html-wrapper
 www.frankenpost.de###article-container > .brickgroup
 ||topteaser.hcsb-2.de/fp-topteaser-desktop/$subdocument
 
