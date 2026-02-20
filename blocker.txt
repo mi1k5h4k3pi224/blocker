@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.42
-! Last modified: 2026-02-09 21:10
+! Version: 2.43
+! Last modified: 2026-02-20 10:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -48,6 +48,7 @@ feedly.com##div>p>a:has-text(/Cyber Week sale/i):upward(article)
 feedly.com##div>p>a:has-text(/Cyber Week deals/i):upward(article)
 feedly.com##div>p>a:has-text(/for Cyber Week/i):upward(article)
 feedly.com##div>p>a:has-text(/new low price/i):upward(article)
+feedly.com##div>p>a:has-text(/lowest price to date/i):upward(article)
 ! [DE Series]
 feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
 feedly.com##div>p>a:has-text(15 Minuten:):upward(article)
