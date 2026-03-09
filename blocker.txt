@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.44
-! Last modified: 2026-02-22 18:00
+! Version: 2.45
+! Last modified: 2026-03-09 08:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -47,8 +47,15 @@ feedly.com##div>p>a:has-text(/for Cyber Monday/i):upward(article)
 feedly.com##div>p>a:has-text(/Cyber Week sale/i):upward(article)
 feedly.com##div>p>a:has-text(/Cyber Week deals/i):upward(article)
 feedly.com##div>p>a:has-text(/for Cyber Week/i):upward(article)
+feedly.com##div>p>a:has-text(/off on Amazon/i):upward(article)
+feedly.com##div>p>a:has-text(/discounts on Amazon/i):upward(article)
+feedly.com##div>p>a:has-text(/pre-ordering on Amazon/i):upward(article)
+feedly.com##div>p>a:has-text(/low price on Amazon/i):upward(article)
+feedly.com##div>p>a:has-text(/low prices on Amazon/i):upward(article)
 feedly.com##div>p>a:has-text(/new low price/i):upward(article)
 feedly.com##div>p>a:has-text(/lowest price to date/i):upward(article)
+feedly.com##div>p>a:has-text(/all-time low price/i):upward(article)
+feedly.com##div>p>a:has-text(/all-time low prices/i):upward(article)
 ! [DE Series]
 feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
 feedly.com##div>p>a:has-text(15 Minuten:):upward(article)
