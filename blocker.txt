@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.52
-! Last modified: 2026-03-28 19:30
+! Version: 2.53
+! Last modified: 2026-03-29 10:50
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -20,6 +20,9 @@ feedly.com##div>p>a:has-text(/The MacRumors Show:/i):upward(article)
 feedly.com##div>p>a:has-text(/MacRumors Giveaway:/i):upward(article)
 feedly.com##div>p>a:has-text(/Apple Deals of the Week:/i):upward(article)
 feedly.com##div>p>a:has-text(/Top Stories:/i):upward(article)
+! [Tech - Ads/Sales]
+feedly.com##div>p>a:has-text(/[$€£]\d+ off\b/i):upward(article)
+feedly.com##div>p>a:has-text(/\d+% off\b/i):upward(article)
 feedly.com##div>p>a:has-text(/percent off/i):upward(article)
 feedly.com##div>p>a:has-text(/on Prime Day/i):upward(article)
 feedly.com##div>p>a:has-text(/for Prime Day/i):upward(article)
@@ -59,8 +62,6 @@ feedly.com##div>p>a:has-text(/record low price/i):upward(article)
 feedly.com##div>p>a:has-text(/lowest price to date/i):upward(article)
 feedly.com##div>p>a:has-text(/all-time low price/i):upward(article)
 feedly.com##div>p>a:has-text(/all-time low prices/i):upward(article)
-feedly.com##div>p>a:has-text(/[$€£]\d+ off\b/i):upward(article)
-feedly.com##div>p>a:has-text(/\d+% off\b/i):upward(article)
 ! [DE Series]
 feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
 feedly.com##div>p>a:has-text(15 Minuten:):upward(article)
@@ -75,15 +76,11 @@ feedly.com##div>p>a:has-text(/mal angenommen/i):upward(article)
 feedly.com##div>p>a:has-text(/Zukunftspodcast:/i):upward(article)
 feedly.com##div>p>a:has-text(/BR24 Retro/i):upward(article)
 ! [DE Ticker/Liveblog]
-feedly.com##div>p>a:has-text(/Ukraine-Liveblog/i):upward(article)
-feedly.com##div>p>a:has-text(/Ukraine-Ticker/i):upward(article)
-feedly.com##div>p>a:has-text(/Nahost-Liveblog/i):upward(article)
-feedly.com##div>p>a:has-text(/Nahost-Ticker/i):upward(article)
-feedly.com##div>p>a:has-text(/Nahost-Blog/i):upward(article)
+feedly.com##div>p>a:has-text(/\b[\w-]+-(Liveblog|Ticker)\b/i):upward(article)
+feedly.com##div>p>a:has-text(/\b\w+-Blog\b/i):upward(article)
 feedly.com##div>p>a:has-text(/Syrer/i):upward(article)
 feedly.com##div>p>a:has-text(/Syrien/i):upward(article)
 feedly.com##div>p>a:has-text(/Syrische/i):upward(article)
-feedly.com##div>p>a:has-text(/Transfer-Ticker/i):upward(article)
 feedly.com##div>p>a:has-text(/DAX/i):upward(article)
 ! [DE Local]
 feedly.com##div>p>a:has-text(/Kulmbach/i):upward(article)
