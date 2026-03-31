@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.56
-! Last modified: 2026-03-31 10:05
+! Version: 2.57
+! Last modified: 2026-03-31 10:10
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -61,9 +61,9 @@ feedly.com##div>p>a:has-text(/lowest price to date/i):upward(article)
 feedly.com##div>p>a:has-text(/all-time low price/i):upward(article)
 feedly.com##div>p>a:has-text(/all-time low prices/i):upward(article)
 feedly.com##div>p>a:has-text(/Amazon Big Spring Sale/i):upward(article)
-feedly.com##div>p>a:has-text(/Amazon's Big Spring Sale/i):upward(article)
-feedly.com##div>p>a:has-text(/Amazon's Spring Sale/i):upward(article)
-feedly.com##div>p>a:has-text(/Amazon's/i):has-text(/Spring Sale/i):upward(article)
+feedly.com##div>p>a:has-text(/Amazon(\'|’)s Big Spring Sale/i):upward(article)
+feedly.com##div>p>a:has-text(/Amazon(\'|’)s Spring Sale/i):upward(article)
+feedly.com##div>p>a:has-text(/Amazon(\'|’)s/i):has-text(/Spring Sale/i):upward(article)
 feedly.com##div>p>a[href*="amazon"][href*="spring-sale"]:upward(article)
 ! [DE Series]
 feedly.com##div>p>a:has-text(Podcast 15 Minuten):upward(article)
