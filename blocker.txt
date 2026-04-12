@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.60
-! Last modified: 2026-04-11 10:45
+! Version: 2.61
+! Last modified: 2026-04-12 14:25
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -179,6 +179,7 @@ www.steamgifts.com##.fanatical_square
 www.steamgifts.com##.vertical.fanatical_container
 www.steamgifts.com##.horizontal.fanatical_container
 www.steamgifts.com##.dont_block_me
+www.steamgifts.com##.pinned-giveaways__outer-wrap
 www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(6)
 ! www.steamgifts.com##div.widget-container--margin-top.widget-container:nth-of-type(5)
 ! www.steamgifts.com##div.widget-container--margin-top.widget-container
