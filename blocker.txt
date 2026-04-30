@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.64
-! Last modified: 2026-04-29 10:15
+! Version: 2.65
+! Last modified: 2026-04-30 10:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -282,6 +282,10 @@ www.carscoops.com##.related
 www.carscoops.com##.addthis-wraper.socials
 www.carscoops.com##.single-related-section
 www.carscoops.com##.extra__ad_tbl.ad-placement
+www.carscoops.com##p>strong:has-text(Read:):upward(p)
+www.carscoops.com##p>strong:has-text(More:):upward(p)
+www.carscoops.com##p>strong:has-text(Also:):upward(p)
+www.carscoops.com##p>strong:has-text(Related:):upward(p)
 
 ! https://www.macrumors.com
 www.macrumors.com##.slick-inline-search-panel
