@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.68
-! Last modified: 2026-05-04 11:30
+! Version: 2.69
+! Last modified: 2026-05-04 21:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -321,6 +321,7 @@ www.dw.com##.flipthis-highlight
 www.tagesschau.de##.copytext__audio
 www.tagesschau.de##.header-app__eventbox
 www.tagesschau.de##.teaser-absatz
+www.tagesschau.de##.burger-navi-holder:style(box-shadow: 0px 1px 20px black !important;)
 
 ! https://www.br.de
 www.br.de##.PrivacyEmbedConsent-module-scss-module__qO7f-W__wrapper
