@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.67
-! Last modified: 2026-05-04 11:25
+! Version: 2.68
+! Last modified: 2026-05-04 11:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -360,7 +360,7 @@ suchen.mobile.de###SRP_TABLECELL_UPPER_ADSENSE:upward(1)
 www.mobile.de##.vTKPY.xzwDO.A3G6X
 www.mobile.de##.zxNMJ:style(margin-top: 120px !important; margin-bottom: 100px !important;)
 mobile.de###T_02_ADSENSE_CSA_VIP_BOTTOM
-mobile.de##[data-testid="ai-search-section"]
+mobile.de##[data-testid="ai-search-section"]:style(margin-top: 100px !important)
 mobile.de##[data-testid="home-fallback-image-slot"]
 mobile.de##[data-testid="home-deals"]
 mobile.de##[data-testid="home-all-mobility-needs"]
