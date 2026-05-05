@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.69
-! Last modified: 2026-05-04 21:00
+! Version: 2.70
+! Last modified: 2026-05-05 10:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -286,6 +286,7 @@ www.carscoops.com##p>strong:has-text(Read:):upward(p)
 www.carscoops.com##p>strong:has-text(More:):upward(p)
 www.carscoops.com##p>strong:has-text(Also:):upward(p)
 www.carscoops.com##p>strong:has-text(Related:):upward(p)
+www.carscoops.com##p>strong:has-text(Review:):upward(p)
 
 ! https://www.macrumors.com
 www.macrumors.com##.slick-inline-search-panel
@@ -551,6 +552,7 @@ thelocal.no,thelocal.de,thelocal.com##^script:has-text(window.tp.experience.init
 thelocal.no,thelocal.de,thelocal.com##+js(rmnt, script, window.tp.experience.init())
 thelocal.no,thelocal.de,thelocal.com##p:has-text(READ ALSO:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(READ MORE:)
+thelocal.no,thelocal.de,thelocal.com##p:has-text(REVEALED:)
 
 ! https://e24.no
 e24.no##.advertory-e24-topboard-wrapper
