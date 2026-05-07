@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.70
-! Last modified: 2026-05-05 10:30
+! Version: 2.71
+! Last modified: 2026-05-07 17:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -164,6 +164,8 @@ deepl.com##[data-testid="start-free-trial-button"]
 deepl.com##[data-testid="write-advertisement-banner"]
 deepl.com##[data-testid="suggestion-dialog"]
 deepl.com##[data-testid="ai-labs-banner"]
+deepl.com##[data-testid="deepl-ui-tooltip-trigger"]
+deepl.com##[data-testid="deepl-ui-tooltip-container"]
 deepl.com##[data-testid="above-navigation-banner"]
 deepl.com##.animatedLogoCloud_running__XU0kD.animatedLogoCloud_ltr__4G3Jo.animatedLogoCloud_scroller__b69y9
 deepl.com##.text-center.py-4.px-6.items-center.flex-col.max-w-\[1400px\].w-full.flex.mb-0.mx-auto.dark.lg\:gap-redesign-4.gap-redesign-8.md\:pt-redesign-8.md\:pb-redesign-7.md\:px-redesign-6
@@ -671,8 +673,9 @@ regardwear.com##div.ikas-popup-default-styles
 regardwear.com##.marquee-container
 regardwear.com###announcements-main
 
-! https://kayak.de
+! https://kayak.xx
 kayak.de##[aria-label="Feedback-Formular"]:upward(div)
+kayak.de,kayak.com##[aria-label="Ad disclaimer"]:upward(6)
 
 ! https://www.blocket.se
 www.blocket.se##.max-w-980.w-980.lg\:block.mx-auto.py-2.hidden.fQcXRM.dDuBQA.sc-94bd82cf-0.sc-74561233-0
