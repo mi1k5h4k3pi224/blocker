@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.71
-! Last modified: 2026-05-07 17:00
+! Version: 2.72
+! Last modified: 2026-05-07 17:10
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -173,6 +173,7 @@ deepl.com##.homeExperience-module--homeExperience--904c9
 deepl.com##.homeExperience_homeExperience__ixC9_
 deepl.com##.animatedLogoCloud_container__TAOPC
 deepl.com##.rfm-marquee
+deepl.com###product-updates-button
 
 ! https://www.steamgifts.com
 ||cdn.steamgifts.com/img/fanatical_spring_sale.gif$image
