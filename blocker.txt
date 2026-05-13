@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.74
-! Last modified: 2026-05-09 11:30
+! Version: 2.75
+! Last modified: 2026-05-13 09:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -493,6 +493,8 @@ eksisozluk.com##.avatar-container
 eksisozluk.com###index-filter-prefs
 eksisozluk.com##div.fb_iframe_widget.fb-page
 eksisozluk.com##.twitter-follow-button-rendered.twitter-follow-button
+eksisozluk.com##.entry-author:has-text("timurun fillerinin bakicisi"):style(background-color: #ff0000;)
+eksisozluk.com##a[href*="turkinform.com.tr"]:style(background-color: #ff0000;)
 eksisozluk.com##ul>li>a:has-text("zeynep bastık"):upward(li)
 eksisozluk.com##ul>li>a:has-text("fenerbahçe"):upward(li)
 eksisozluk.com##ul>li>a:has-text("galatasaray"):upward(li)
