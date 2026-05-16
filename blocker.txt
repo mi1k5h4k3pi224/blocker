@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.77
-! Last modified: 2026-05-15 13:00
+! Version: 2.78
+! Last modified: 2026-05-16 16:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -252,10 +252,16 @@ facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(display: none):rem
 facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(position: absolute):remove()
 facebook.com##[role="feed"] span[id] a[href="#"]:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div)
 ! https://www.facebook.com
-www.facebook.com##.x1ceravr.xgmub6v.x193iq5w
-www.facebook.com##div.x1yztbdb > div > div > div > div > .xh8yej3.x1n2onr6.x78zum5
-www.facebook.com##[role=feed]>div [href="/reel/?s=ifu_see_more"]:upward([role=feed]>div)
-www.facebook.com##.r5g9zsuq.q46jt4gp > div > .gve6y6jg
+facebook.com##+js(trusted-click-element, [role="dialog"]:has([href="https://www.facebook.com/policies/cookies/"]) [aria-hidden="true"] + [aria-label][tabindex="0"], , 1000)
+facebook.com##+js(trusted-click-element, body > div[id^="mount"] #scrollview ~ div div[role="button"]:has(> div[data-visualcompletion="ignore"]) )
+facebook.com###scrollview:style(position: static !important; width: unset !important; height: unset !important; overflow: unset !important;)
+facebook.com##div[id^="mount"] div:not([id]):not([class]):not([style]) > div[data-nosnippet]
+facebook.com##[role=feed]>div [href="/reel/?s=ifu_see_more"]:upward([role=feed]>div)
+facebook.com##+js(aeld, scroll)
+facebook.com##body > div[class*="__fb-light-mode"]  
+facebook.com##body > div[id^="mount"] #scrollview ~ div
+m.facebook.com###screen-root .bottom[style*="z-index:1"]
+m.facebook.com##.prevent-scrolling:style(overflow-y: unset !important;)
 
 ! https://x.com
 x.com##[aria-label="Grok"]
