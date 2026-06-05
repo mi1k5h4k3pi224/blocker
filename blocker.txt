@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.86
-! Last modified: 2026-06-05 08:50
+! Version: 2.87
+! Last modified: 2026-06-05 09:10
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -275,8 +275,6 @@ linkedin.com##:xpath('//*[(text()[contains(.,                 "Suggested")])]/..
 linkedin.com##:xpath('//*[(text()[contains(.,        "Expert answers on ")])]/../../../../../../../../../..')
 linkedin.com##:xpath('//*[(text()[contains(.,       "Recommended for you")])]/../../../../../../../../../..')
 linkedin.com##:xpath('//*[(text()[contains(.,"Events recommended for you")])]/../../../../../../../../../..')
-linkedin.com##:xpath('//*[(text()[contains(.,"Promoted")])]/../../../..')
-linkedin.com##:xpath('//*[(text()[contains(.,"Add to your feed")])]/../../../../../../..')
 linkedin.com##:xpath('//*[(text()[contains(.,"Today’s top courses")])]/../../../..')
 linkedin.com##:xpath('//*[(text()[contains(.,"Jobs recommended for you")])]/../../../../../../..')
 linkedin.com##:xpath('//*[(text()[contains(.,"LinkedIn News")])]/../../../../../..')
@@ -287,10 +285,7 @@ linkedin.com##:xpath(//span[text()[contains(.,'likes this')]]/../../../../..)
 linkedin.com##:xpath(//span[(text()[contains(.,'Recommended for you')])]/../../../../../../../../../..)
 linkedin.com##:xpath(//span[(text()[contains(.,'Events recommended for you')])]/../../../../../../../../../..)
 linkedin.com##:xpath(//p[text()[contains(.,'Take a break with a LinkedIn puzzle game')]]/../../../..)
-linkedin.com##xpath('.//span[contains(@class, "feed-shared-actor__sub-description") and text()[contains(.,"Promoted")]]/../../../..')
-linkedin.com##li:has-text(Promoted)
-linkedin.com##li:has-text(Reposted)
-linkedin.com##.tvm__text--positive:has-text(Reposted)
+linkedin.com##:xpath(//p[text()[contains(.,"Today’s puzzles")]]/../../../..)
 linkedin.com##.scaffold-finite-scroll__content > div[data-finite-scroll-hotspot-top]
 linkedin.com##.feed-follows-module
 linkedin.com##.ad-banner-container
