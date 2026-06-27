@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.93
-! Last modified: 2026-06-25 23:45
+! Version: 2.94
+! Last modified: 2026-06-28 00:55
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -432,6 +432,7 @@ www.kleinanzeigen.de##[data-testid="feature-container"]
 
 ! https://markt.de
 markt.de##.clsy-contentsection.clsy-c-search__carousel
+markt.de##[href="/ratgeber/haus-garten/betrugsmuster-tipps/"]
 
 ! https://www.mydealz.de
 www.mydealz.de##.gamification-modal
@@ -714,3 +715,6 @@ www.carsized.com##[href^="https://www.carvertical.com/gb/landing/v3"]
 
 ! https://www.scidoo.com
 www.scidoo.com##.popup__container
+
+! https://percentagecalculator.net
+percentagecalculator.net##.pc-incontent
