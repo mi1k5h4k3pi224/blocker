@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.95
-! Last modified: 2026-06-28 16:35
+! Version: 2.96
+! Last modified: 2026-07-05 10:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -503,6 +503,9 @@ hochfranken-live.de##.fsl-buttons
 
 ! https://www.2ertalk.de
 www.2ertalk.de##span:has-text("Anzeige"):upward(article)
+
+! https://www.marktguru.de
+www.marktguru.de###app > .newsletter-signup
 
 ! --------------[Turkey 🇹🇷]-----------------------------------------------------------------------------
 
