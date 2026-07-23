@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 2.99
-! Last modified: 2026-07-18 16:00
+! Version: 3.00
+! Last modified: 2026-07-23 13:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -157,7 +157,6 @@ translate.google.com###google-hats-survey
 ||accounts.google.com/gsi/$3p
 
 ! https://www.deepl.com
-deepl.com###glossarySuggestionsDialogPortal
 deepl.com##span>div>div>div>div>div>span:has-text(DeepL Write):upward(span)
 deepl.com##span>div>div>div>div>div>span:has-text("DeepL Write"):upward(span)
 deepl.com##section>h1:has-text("AI solutions"):upward(section)
@@ -168,18 +167,19 @@ deepl.com##div>a:has-text("Sales kontaktieren"):upward(div)
 deepl.com##div>a:has-text("Sales-Team kontaktieren"):upward(div)
 deepl.com##div>a:has-text("Probeabo"):upward(div)
 deepl.com##div>div:has-text("animatedLogoCloud"):upward(div)
+deepl.com##div[class^="homeExperience"]  
+deepl.com##div[class^="MarketingPageHeader"]  
+deepl.com##div[class^="animatedLogoCloud"]  
+deepl.com###glossarySuggestionsDialogPortal
+deepl.com###product-updates-button:upward(2)
+deepl.com###product-updates-button
+deepl.com##.rfm-marquee
 deepl.com##[data-testid="start-free-trial-button"]
 deepl.com##[data-testid="write-advertisement-banner"]
 deepl.com##[data-testid="suggestion-dialog"]
 deepl.com##[data-testid="ai-labs-banner"]
 deepl.com##[data-testid="above-navigation-banner"]
-deepl.com##.animatedLogoCloud_running__XU0kD.animatedLogoCloud_ltr__4G3Jo.animatedLogoCloud_scroller__b69y9
 deepl.com##.text-center.py-4.px-6.items-center.flex-col.max-w-\[1400px\].w-full.flex.mb-0.mx-auto.dark.lg\:gap-redesign-4.gap-redesign-8.md\:pt-redesign-8.md\:pb-redesign-7.md\:px-redesign-6
-deepl.com##.homeExperience-module--homeExperience--904c9
-deepl.com##.homeExperience_homeExperience__ixC9_
-deepl.com##.animatedLogoCloud_container__TAOPC
-deepl.com##.rfm-marquee
-deepl.com###product-updates-button
 
 ! https://www.steamgifts.com
 ||cdn.steamgifts.com/img/fanatical_spring_sale.gif$image
