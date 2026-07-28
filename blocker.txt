@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.00
-! Last modified: 2026-07-23 13:30
+! Version: 3.01
+! Last modified: 2026-07-28 16:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -593,6 +593,8 @@ thelocal.no,thelocal.de,thelocal.com##+js(rmnt, script, window.tp.experience.ini
 thelocal.no,thelocal.de,thelocal.com##p:has-text(READ ALSO:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(READ MORE:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(REVEALED:)
+thelocal.no,thelocal.de,thelocal.com##p:has-text(OPINION:)
+thelocal.no,thelocal.de,thelocal.com##p:has-text(ANALYSIS:)
 
 ! https://e24.no
 e24.no##.advertory-e24-topboard-wrapper
