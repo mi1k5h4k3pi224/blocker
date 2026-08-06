@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.01
-! Last modified: 2026-07-28 16:30
+! Version: 3.02
+! Last modified: 2026-08-26 09:15
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -614,6 +614,7 @@ store.steampowered.com##.saleEventBannerLink
 
 ! https://bulten.mserdark.com
 bulten.mserdark.com###subscribe-bar
+bulten.mserdark.com##div>button>div:has-text(Restack):upward(div)
 
 ! https://www.worldometers.info
 www.worldometers.info##div:nth-of-type(13)
