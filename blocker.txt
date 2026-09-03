@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.03
-! Last modified: 2026-08-08 22:55
+! Version: 3.04
+! Last modified: 2026-09-03 22:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -727,6 +727,9 @@ www.prisma.de##.news-details__article-socials
 
 ! https://www.carsized.com
 www.carsized.com##[href^="https://www.carvertical.com/gb/landing/v3"]
+
+! https://carsandbids.com
+carsandbids.com##.cnb-details-services
 
 ! https://www.scidoo.com
 www.scidoo.com##.popup__container
