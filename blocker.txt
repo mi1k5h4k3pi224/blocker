@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.04
-! Last modified: 2026-09-03 22:00
+! Version: 3.05
+! Last modified: 2026-09-08 15:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -523,8 +523,9 @@ abkürzung.info###meld
 
 ! https://eksisozluk.com
 eksisozluk.com##.sponsored
-eksisozluk.com###embedded-player
 eksisozluk.com##.avatar-container
+eksisozluk.com###pinned-entry
+eksisozluk.com###embedded-player
 eksisozluk.com###index-filter-prefs
 eksisozluk.com##div.fb_iframe_widget.fb-page
 eksisozluk.com##.twitter-follow-button-rendered.twitter-follow-button
