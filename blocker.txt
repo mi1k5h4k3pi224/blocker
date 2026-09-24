@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.05
-! Last modified: 2026-09-08 15:30
+! Version: 3.06
+! Last modified: 2026-09-24 17:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -65,6 +65,7 @@ feedly.com##div>p>a:has-text(/lowest price in months/i):upward(article)
 feedly.com##div>p>a:has-text(/all-time low price/i):upward(article)
 feedly.com##div>p>a:has-text(/all-time low prices/i):upward(article)
 feedly.com##div>p>a:has-text(/best price of the year/i):upward(article)
+feedly.com##div>p>a:has-text(/on sale for/i):upward(article)
 feedly.com##div>p>a:has-text(/Amazon Big Spring Sale/i):upward(article)
 feedly.com##div>p>a:has-text(/Amazon(\'|’)s Big Spring Sale/i):upward(article)
 feedly.com##div>p>a:has-text(/Amazon(\'|’)s Spring Sale/i):upward(article)
@@ -590,6 +591,7 @@ thelocal.no,thelocal.de,thelocal.com##*:style(font-family: Arial !important)
 thelocal.no,thelocal.de,thelocal.com##.tp-modal
 thelocal.no,thelocal.de,thelocal.com##.tp-active.tp-backdrop
 thelocal.no,thelocal.de,thelocal.com##.tp-modal-open:style(overflow:visible !important;)
+thelocal.no,thelocal.de,thelocal.com###articleBody > .tl-newsletter-form
 thelocal.no,thelocal.de,thelocal.com##^script:has-text(window.tp.experience.init())
 thelocal.no,thelocal.de,thelocal.com##+js(rmnt, script, window.tp.experience.init())
 thelocal.no,thelocal.de,thelocal.com##p:has-text(READ ALSO:)
