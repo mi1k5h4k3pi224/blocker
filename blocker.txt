@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.06
-! Last modified: 2026-09-24 17:30
+! Version: 3.07
+! Last modified: 2026-10-01 18:20
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -391,24 +391,24 @@ www.computerbild.de###newsletter-teaser-widget
 
 ! --------------[Germany 🇩🇪]-----------------------------------------------------------------------------
 
-! https://suchen.mobile.de
-suchen.mobile.de##[data-testid="srx-result-list-container"]
-suchen.mobile.de##[data-testid="kleinanzeigen-box"]
-suchen.mobile.de##.flipthis-highlight
-suchen.mobile.de##.vip-placeholder
-suchen.mobile.de##.B5A5a.QyTg6.IvkY6
-suchen.mobile.de##.vTKPY.UiXjD.A3G6X
-suchen.mobile.de##.ypHid
-suchen.mobile.de###T_02_ADSENSE_CSA_VIP_BOTTOM
-suchen.mobile.de###SRP_TABLECELL_UPPER_ADSENSE:upward(1)
-suchen.mobile.de###SRP_SKY_TOP_RIGHT
-suchen.mobile.de###SRP_SKY_TOP_LEFT
-suchen.mobile.de###VIP_SKY_RIGHT
-suchen.mobile.de###VIP_SKY_LEFT
-suchen.mobile.de###mde-ad-banner
+! https://mobile.de
+mobile.de##.B5A5a.QyTg6.IvkY6
+mobile.de##.vTKPY.UiXjD.A3G6X
 mobile.de##.vTKPY.xzwDO.A3G6X
-www.mobile.de###DSP_SKY_RIGHT
-www.mobile.de###DSP_SKY_LEFT
+mobile.de##._uJGix._pSTKR
+mobile.de##._JvrzQ._pSTKR
+mobile.de##.ypHid
+mobile.de###T_02_ADSENSE_CSA_VIP_BOTTOM
+mobile.de###SRP_TABLECELL_UPPER_ADSENSE:upward(1)
+mobile.de###SRP_SKY_TOP_RIGHT
+mobile.de###SRP_SKY_TOP_LEFT
+mobile.de###VIP_SKY_RIGHT
+mobile.de###VIP_SKY_LEFT
+mobile.de###DSP_SKY_RIGHT
+mobile.de###DSP_SKY_LEFT
+mobile.de##.flipthis-highlight
+mobile.de##.vip-placeholder
+mobile.de###mde-ad-banner
 mobile.de##.zxNMJ:style(margin-top: 120px !important; margin-bottom: 100px !important;)
 mobile.de##[data-testid="ai-search-section"]:style(margin-top: 100px !important)
 mobile.de##[data-testid="home-fallback-image-slot"]
@@ -418,10 +418,13 @@ mobile.de##[data-testid="home-magazine-section-container"]
 mobile.de##[data-testid="home-seo-brand-section"]
 mobile.de##[data-testid="home-seo-links-section"]
 mobile.de##[data-testid="home-seo-section-container"]
+mobile.de##[data-testid="srx-result-list-container"]
+mobile.de##[data-testid="kleinanzeigen-box"]
 mobile.de##[data-testid="vip-price-box"]
 mobile.de##[data-testid="vip-insurance-box"]
 mobile.de##[data-testid="vip-financing-monthly-rate"]
 mobile.de##[data-testid="vip-vehicle-overview-fin-link"]
+mobile.de##[data-testid="DSP_MPU_BOX"]:upward(1)
 mobile.de##[data-testid="VIP_BILLBOARD"]:upward(1)
 mobile.de##[data-testid="VIP_MRECT_PREMIUM"]:upward(1)
 mobile.de##[data-testid="VIP_MRECT_PREMIUM_ADSENSE"]:upward(1)
