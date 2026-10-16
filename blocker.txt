@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.07
-! Last modified: 2026-10-01 18:20
+! Version: 3.08
+! Last modified: 2026-10-16 10:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -310,6 +310,7 @@ vk.com##.apps_feedRightAppsBlock_single_app--.apps_feedRightAppsBlock_single_app
 ! --------------[News]-----------------------------------------------------------------------------
 
 ! https://www.carscoops.com
+||www.carscoops.com/*?ajax=1$xmlhttprequest
 www.carscoops.com##.videor.row
 www.carscoops.com##.section5.row.editorp.custom-promo-small
 www.carscoops.com##.section5.sec2head.row
@@ -322,6 +323,8 @@ www.carscoops.com##.related
 www.carscoops.com##.addthis-wraper.socials
 www.carscoops.com##.single-related-section
 www.carscoops.com##.extra__ad_tbl.ad-placement
+www.carscoops.com##.add-on-google-widget
+www.carscoops.com##.holder:style(max-width: initial !important;)
 www.carscoops.com##p>strong:has-text(Read:):upward(p)
 www.carscoops.com##p>strong:has-text(More:):upward(p)
 www.carscoops.com##p>strong:has-text(Also:):upward(p)
@@ -347,6 +350,9 @@ www.theverge.com##.tly2fw0
 ! https://www.404media.co
 www.404media.co##.kg-callout-card-grey.kg-callout-card.kg-card
 www.404media.co##.no-overflow.post__content > [src]
+
+! https://www.motor1.com
+www.motor1.com##.rec-strip
 
 ! https://arstechnica.com
 arstechnica.com##.cne-interlude-container
@@ -736,6 +742,9 @@ www.carsized.com##[href^="https://www.carvertical.com/gb/landing/v3"]
 
 ! https://carsandbids.com
 carsandbids.com##.cnb-details-services
+
+! https://chatgpt.com
+chatgpt.com##.container-C1xTCG
 
 ! https://www.scidoo.com
 www.scidoo.com##.popup__container
