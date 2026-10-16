@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.09
-! Last modified: 2026-10-16 13:20
+! Version: 3.10
+! Last modified: 2026-10-16 15:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -354,6 +354,8 @@ www.404media.co##.no-overflow.post__content > [src]
 ! https://www.motor1.com
 www.motor1.com##.rec-strip
 www.motor1.com##div>div>span:has-text(What do you think?):upward(2)
+! Motor1: hide the consent placeholder inside embedded tweets
+www.motor1.com##.embed-item > .ms-onetrust_stub
 
 ! https://arstechnica.com
 arstechnica.com##.cne-interlude-container
