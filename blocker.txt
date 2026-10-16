@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.08
-! Last modified: 2026-10-16 10:30
+! Version: 3.09
+! Last modified: 2026-10-16 13:20
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -353,6 +353,7 @@ www.404media.co##.no-overflow.post__content > [src]
 
 ! https://www.motor1.com
 www.motor1.com##.rec-strip
+www.motor1.com##div>div>span:has-text(What do you think?):upward(2)
 
 ! https://arstechnica.com
 arstechnica.com##.cne-interlude-container
