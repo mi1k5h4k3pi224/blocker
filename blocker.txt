@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.16
-! Last modified: 2026-10-22 19:30
+! Version: 3.17
+! Last modified: 2026-11-04 13:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -609,7 +609,7 @@ thelocal.no,thelocal.de,thelocal.com##*:style(font-family: Arial !important)
 thelocal.no,thelocal.de,thelocal.com##.tp-modal
 thelocal.no,thelocal.de,thelocal.com##.tp-active.tp-backdrop
 thelocal.no,thelocal.de,thelocal.com##.tp-modal-open:style(overflow:visible !important;)
-thelocal.no,thelocal.de,thelocal.com###articleBody > .tl-newsletter-form
+thelocal.no,thelocal.de,thelocal.com##.tl-newsletter-form
 thelocal.no,thelocal.de,thelocal.com##^script:has-text(window.tp.experience.init())
 thelocal.no,thelocal.de,thelocal.com##+js(rmnt, script, window.tp.experience.init())
 thelocal.no,thelocal.de,thelocal.com##p:has-text(READ ALSO:)
@@ -618,6 +618,7 @@ thelocal.no,thelocal.de,thelocal.com##p:has-text(REVEALED:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(OPINION:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(ANALYSIS:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(LISTEN:)
+thelocal.no,thelocal.de,thelocal.com##p:has-text(PODCAST:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(PODCAST🎧:)
 
 ! https://e24.no
