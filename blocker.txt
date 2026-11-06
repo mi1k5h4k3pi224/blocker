@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.18
-! Last modified: 2026-11-06 13:26
+! Version: 3.19
+! Last modified: 2026-11-06 21:30
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -406,11 +406,13 @@ www.computerbild.de###newsletter-teaser-widget
 ! --------------[Germany 🇩🇪]-----------------------------------------------------------------------------
 
 ! https://mobile.de
+mobile.de##.wxZulq_fallbackImg
 mobile.de##.B5A5a.QyTg6.IvkY6
 mobile.de##.vTKPY.UiXjD.A3G6X
 mobile.de##.vTKPY.xzwDO.A3G6X
 mobile.de##._uJGix._pSTKR
 mobile.de##._JvrzQ._pSTKR
+mobile.de##.ysTl_W_button
 mobile.de##.ypHid
 mobile.de###T_02_ADSENSE_CSA_VIP_BOTTOM
 mobile.de###SRP_TABLECELL_UPPER_ADSENSE:upward(1)
