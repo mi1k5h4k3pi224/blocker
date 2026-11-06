@@ -1,7 +1,7 @@
 ! Title: 🍍 [mi1k5h4k3pi224] Annoyances Blocker (Private)
 ! Description: Random list of annoyances
-! Version: 3.17
-! Last modified: 2026-11-04 13:00
+! Version: 3.18
+! Last modified: 2026-11-06 13:26
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/mi1k5h4k3pi224/blocker
 
@@ -617,6 +617,8 @@ thelocal.no,thelocal.de,thelocal.com##p:has-text(READ MORE:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(REVEALED:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(OPINION:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(ANALYSIS:)
+thelocal.no,thelocal.de,thelocal.com##p:has-text(INTERVIEW:)
+thelocal.no,thelocal.de,thelocal.com##p:has-text(LISTED:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(LISTEN:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(PODCAST:)
 thelocal.no,thelocal.de,thelocal.com##p:has-text(PODCAST🎧:)
@@ -760,6 +762,9 @@ chatgpt.com##.container-C1xTCG
 
 ! https://www.scidoo.com
 www.scidoo.com##.popup__container
+
+! https://www.iphone-ticker.de
+www.iphone-ticker.de###verbraucherhinweis-b-content-desktop > .r26-werbung
 
 ! https://percentagecalculator.net
 percentagecalculator.net##.pc-incontent
